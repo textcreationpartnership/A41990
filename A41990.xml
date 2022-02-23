@@ -1,0 +1,1643 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The voyce of truth or The high way leading to true peace composed in Latine by M.G. and translated into Inglish by F.G.</title>
+            <author>M. G. (Martin Grene), 1616-1667.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 100 KB of XML-encoded text transcribed from 63 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41990</idno>
+            <idno type="STC">Wing G1826A</idno>
+            <idno type="STC">ESTC R215166</idno>
+            <idno type="EEBO-CITATION">99827124</idno>
+            <idno type="PROQUEST">99827124</idno>
+            <idno type="VID">31538</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41990)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31538)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1886:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The voyce of truth or The high way leading to true peace composed in Latine by M.G. and translated into Inglish by F.G.</title>
+                  <author>M. G. (Martin Grene), 1616-1667.</author>
+                  <author>F. G.</author>
+               </titleStmt>
+               <extent>[4], 120 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Robert VValker, at the signe of the Annunciation of our Blessed Lady,</publisher>
+                  <pubPlace>At Gant :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>M.G. = Martin Greene.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:31538:1" rendition="simple:additions"/>
+            <pb facs="tcp:31538:1"/>
+            <p>THE VOYCE OF TRUTH OR THE HICH WAY LEADING TO TRUE PEACE
+Compoſed in Latine by M. G. and tranſlated into Inglish by F. G.</p>
+            <q> 
+               <p>
+                  <hi>Diſcite a me quia mitis ſum, &amp; humilis corde: &amp;
+invenietis Requiem animabus veſtris</hi>
+               </p>
+               <bibl>Matth 11. 29.</bibl>
+            </q>
+            <q> 
+               <p>Learne of mee, becauſe I am meeke, and humble of hart: and you
+shall find reſt to your ſoules.</p>
+               <bibl>Matth 11 29.</bibl>
+            </q>
+            <figure/>
+            <p>AT GANT, Printed by <hi>Robert VValker,</hi> at the ſigne of the
+<hi>Annuntiation of our Bleſſed</hi> LADY, 1676.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:31538:2" rendition="simple:additions"/>
+            <pb facs="tcp:31538:2"/>
+            <head>To the moſt vertuous and Honorable lady MARY KNATCHBVLL
+Abbeſ<g ref="char:EOLhyphen"/>ſe of the Inglish Dames of the order of S. Bene<g ref="char:EOLhyphen"/>dict in Gant.</head>
+            <opener>
+               <salute>MADAME</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">M</seg>Y wishes to your lad<hi rend="sup">y</hi>. and Community, are of a moſt happy
+Chriſt<g ref="char:EOLhyphen"/>maſſe and to the end they may not prove meere empty ones, that
+paſſe with the breath that con<g ref="char:EOLhyphen"/>vayes them to the eare, they goe accompanied
+with a ſmale trea<g ref="char:EOLhyphen"/>tiſe, which may helpe to further<pb facs="tcp:31538:3"/>the
+happineſſe I wish both you, and them. I preſent you with <hi>The voice of
+truth, the An<g ref="char:EOLhyphen"/>gel of peace</hi> who giving him<g ref="char:EOLhyphen"/>ſelfe vnto us, gave the
+firſt happy Chriſt-maſſe, and <hi>peace on earth to men of good
+will.</hi> Firſt fruites ſeldome have their due maturity: yet their beeing
+firſt ſupplyes this want, &amp; makes them the moſt acceptable. I hope
+theſe being my firſt (in this kind) will, if not merit a gratfull
+acceptance, at leaſt pleade a gra<g ref="char:EOLhyphen"/>tious pardon for.</p>
+            <closer>
+               <signed>Your ladps moſt humble ſervant F.
+G.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="chapter">
+            <pb n="1" facs="tcp:31538:3"/>
+            <head>THE <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>IRST CHAPTER.
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat Peace the greateſt good of
+Man Living on earth, is only to bee found in God.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Onne I ſay'd vnto my Diſciples <hi>Peace I leave vnto you,
+my peace I give vnto you;</hi> nor did I give a
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ale
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ng, when I gave peace. For peace,
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d tranquillity of mind, is the
+g<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eateſt of happineſſes, this
+would <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> afford. All labour for
+this a<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e, that they may live in
+quiet, <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> peaceably paſſe
+their dayes. <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e who you will
+Riches, Pleaſu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>, and Honours, if
+hee enjoyes <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> peace hee will
+ſtill bee miſerable.<pb n="2" facs="tcp:31538:4"/>Peace of minde is a comfort in
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> labours, a buckler againſt
+miſery, a<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> antidote againſt
+feare, a ſchoole <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> vertues.
+Without peace neyther Kings, nor Princes, can bee happy, and on the other
+ſide either in ſickneſſe, Poverty, torments, or death it ſelfe, if
+you enjoy but peace of mind you are happy; and none of earth can bee more happy
+then you, vnleſſe hee enjoy a greater peace, and more tranquillity. Learne
+therefore Sonne of mee this ſcience of Saints, heare mee, and Ile' teach thee
+what this Peace is, and where it is to bee found.</p>
+            <p>Peace is a tranquillity of minde by which man reſts content,
+ac<g ref="char:EOLhyphen"/>cording to true Reaſon with what ſoever happens, and deſires no<g ref="char:EOLhyphen"/>thing
+but what hee has. This is the complete peace, and moſt perfect
+poſſeſſion of the bleſſed, who have<pb n="3" facs="tcp:31538:4"/>nothing to
+feare, or wish for, becauſe they doe ſecurely, and fully enjoy all good
+according to the meaſure God is pleaſed to impart. You muſt not expect
+this peace on earth, but shall enjoy it in heaven when death shall bee
+ſwolloed vp in victory, and mv Father shall wype a way all teares from your
+eyes that you may contemplate the face of God. Yet there is an other peace much
+to bee wished for, where vnto by Gods grace you may attaine. For though your
+will cannot bee fully ſatiated in this life, nor perfectly at reſt, (for as
+long as you doe not poſſeſſe the ſupreame good, where vnto you were
+created, the minde is ſtill wavering among the incertaintyes of hope and
+feare) yet you may enjoy a ſecondary kind of peace or leſſe perfect;
+which conſiſt's in this, that you only feare, hope, and ſeeke one 
+<pb n="4" facs="tcp:31538:5"/>thing, to wit, God; and regard all other things with a quiet
+and ſerene minde. And this is the peace of Saints living in this banishment.
+Which as it is much ſurpaſſed by the peace of the Bleſſed, ſoe does
+it alſoe farre ſurpaſſe the peace of Sinners.</p>
+            <p>Seeke therefore deare Sonne this peace which leads to heaven. Then
+shall you bee at reſt, when you only rely on mee; for as long as you doe not
+leave mee, let what will befale you, you shall ever enjoy the ſupreame good,
+if not in a ſure poſſeſſion, at leaſt in tranquill hopes, and
+ſincere love, which is the greateſt happineſſe any man can enjoy in
+this life: nor is there any thing more pleaſing then my converſation that
+has noe bitterneſſe. All creatures (though you enjoyed them at your will)
+cannot quiet thee ſoe much<pb n="5" facs="tcp:31538:5"/>as I, the Creator of them all,
+that infinitely ſurpaſſe all good imagina<g ref="char:EOLhyphen"/>ble. Creatures may feede thy
+ſenſes, but becauſe they doe not reach the ſoule, leave it empty. I
+interiourly replenish the ſoule with my ſelfe, and shew it all good in mee.
+Seeke therefore mee and my peace, and Ile' take care of thee; leave not mee,
+and Ile' not forſake thee, but comfort thee in all adverſityes, and not
+only give thee peace, but make thee ſitt at my table; and though not for a
+permanency (becauſe thou muſt bee tryed) yet paſſing Ile' ſerve thee
+with heavenly Comfort. Remember the comfort you have receaved, and you will
+ſee what I ſay is true. Behold my Martirs and Confeſſors exulting in
+the midſt of torments, and you will vnder<g ref="char:EOLhyphen"/>ſtand, how much the interiour
+con<g ref="char:EOLhyphen"/>ſolation which I afford, does ſur<g ref="char:EOLhyphen"/>paſſe<pb n="6" facs="tcp:31538:6"/>all the
+joyes of the world. All joy of the world is overcome by any ſmale paine: but
+my joy overcomes all the paines of the world. When the worldlings over<g ref="char:EOLhyphen"/>floe
+with delights, and ſwimme in the midſt of pleaſures, if their head ake,
+if a feaver diſtemper them, all their joy is loſt, and they poore ſoules
+ſigh and lament. Soe eaſily is all the joy of the world overcome with the
+leaſt ſufferance or paine. On the contrary my ſer<g ref="char:EOLhyphen"/>vants in the greateſt
+paines and ad<g ref="char:EOLhyphen"/>verſityes, in the moſt grievous tor<g ref="char:EOLhyphen"/>ments, and death it
+ſelfe rejoyce; and replenished with my joy deſpiſe the torments. As
+therefore the ſor<g ref="char:EOLhyphen"/>row of the world does incompara<g ref="char:EOLhyphen"/>bly exceed its joy, ſoe
+does mv joy in an infinite manner ſurpaſſe all the ſorrow and paines of
+the world. Many heare the name of my peace,<pb n="7" facs="tcp:31538:6"/>and the words of
+<hi>Thoſe that Evan<g ref="char:EOLhyphen"/>gelize peace</hi> and ſee the <hi>Goodly feete of the
+Saintes;</hi> but few vnderſtand what they ſee or heare, of their internal
+joye. And therefore con<g ref="char:EOLhyphen"/>ceive it not becauſe they have not taſted of it.
+What a difference is there betweene my joy, and the joy of the world? Heaven
+does not ſoe much exceed the earth, as my peace doth ſurpaſſe all
+comfort, or content, that is to bee found out of mee. Taſte and ſee what
+the abundance of my ſweetneſſe is: for if you taſte it not, neither
+will <hi>Your eye ſee, nor eares heare, nor shall it aſcend into your hart,
+what things God has prapared for thoſe that love him.</hi> Therefore few
+vnderſtand, becauſe few have taſted how ſweet I am. They will not
+ſeeke the permanent good, but follow their owne inventiones: <hi>And
+therefore I deliver<pb n="8" facs="tcp:31538:7"/>them vp to the deſires of their hart,
+and paſſions of ignominy,</hi> that they may vanish in their cogitationes.
+None of all theſe shall find peace: becauſe they ſeeke, where it is not;
+that is, they ſeeke it out of mee, who only am able to comfort my Crea<g ref="char:EOLhyphen"/>ture,
+when I will, and in what meaſure I will. Sonne let this there<g ref="char:EOLhyphen"/>fore bee thy
+final concluſion, that all peace and tranquility of minde conſiſts' in
+the poſſeſſion of good; nor can man's will reſt elſe where but in
+good. Wherefore of neceſ<g ref="char:EOLhyphen"/>ſity you muſt judge the ſupreame peace to
+conſiſt in the perfect poſ<g ref="char:EOLhyphen"/>ſeſſion of the ſupreme good in
+hea<g ref="char:EOLhyphen"/>ven. The next degree of peace, which is the greateſt good of this life,
+does wholy conſiſt in making towards the ſupernall peace, that is;
+towards the enjoying God as ſoone, and ſe<g ref="char:EOLhyphen"/>curely as poſſible, and here
+enjoy: all<pb n="9" facs="tcp:31538:7"/>mighty God not yet face to face but through <hi>A
+looking glaſſe and in a riddle.</hi> You are a Pilgrimme and cannot
+poſſeſſe a perfect peace till you come to your journeys end. Yet you
+may enjoy the tranquillity of minde a travaler has, when you ſee your ſelfe
+to goe on in the right way with out danger. Neither is this more propper to
+you, then to all other creatures. The greateſt happineſſe of all
+creatures is to reſt in their final end, and the next, to tend with all
+ſpeed there vnto. Thus the maine appetite and
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>li<g ref="char:EOLhyphen"/>nation of the Elements is to
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in their center, and the next,
+to move towards the center; for all other places are violent, Thus the brute
+beaſts enjoy their chiefe happineſſe when they feede their ſenſes,
+and the next to this when they are in readineſs to receave this pleaſure.
+<pb n="10" facs="tcp:31538:8"/>In the ſame manner you may ſay of your ſelfe and all
+men; the chiefe felicity of man is to enjoy and poſſeſse God, the next is
+to ſeeke God; for there is nothing ſoe good, after the poſſeſing God,
+as the ap<g ref="char:EOLhyphen"/>proching towards God. And beſides theſe, there is nothing that
+may bee truely termed good to man: for what ſoever is good ever perfects the
+thing, vnto which it is good, and nothing perfects man, that does not place him
+in his end, or at leaſt premote him towards it: as on the contrary nothing is
+juſtly to bee termed evil, but what hinders him of his end.</p>
+            <p>Sonne if you vnderſtand this you may live peaceably, nor shall
+any evil affection touch you as long as you ſtick to this maxime. For all
+inordinate affectiones that de<g ref="char:EOLhyphen"/>ſtroy peace, proceed from a ſalfe 
+<pb n="11" facs="tcp:31538:8"/>repreſentation of good or evil: ſoe that who ſoe ever
+is perſwa<g ref="char:EOLhyphen"/>ded that nothing is good but what leads to God, nor evil but what
+ſeparats from him, may have a tran<g ref="char:EOLhyphen"/>quil mind, and peacebly reſt in his Lord
+and God, by the aſſi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tance of
+devine grace; ſince hee ſees it is in his free will and power, to want all
+evil, and poſſeſse all good. For noe man looſes God that wills not, and
+noe man that wills but enjoyes him. And on the contrary who ſoever doe not
+tend towards God, beſides that they are deprived of the hopes of this
+happineſſe, and runne into certaine mischiefe, they are troubled with many
+other af<g ref="char:EOLhyphen"/>fections. They are vexed with the deſire of many things, they feare
+&amp; hope many things, which though they would never ſoe faine, they cannot
+obtaine, nor retaine when <pb n="12" facs="tcp:31538:9"/>they have obtained them. They
+leave the only true good, and are car<g ref="char:EOLhyphen"/>ryed away with an vnſatiable avi<g ref="char:EOLhyphen"/>dity
+of falſe apparent goods; and ſoe are juſtly ſerved, whilſt they are
+illuded with falſe goods, that neglect the true and maine good.</p>
+            <p>If ſome times they ſeeme happy, and fully to reſt, and
+deſire nothing elſe, whilſt they take their pleaſure, yet they are not
+happy. Noe man can bee happy and miſerable at once; and who ſoever
+haſtens to eternal miſery is miſerable; vnleſſe you thinke him happy,
+that beeing con<g ref="char:EOLhyphen"/>demned to death is lead hood winkt to the precipice; but
+ſuch, therfore ſeeme happy becauſe they are drunke with pleaſure, and
+this is the hap<g ref="char:EOLhyphen"/>pineſſe of drunken men, that whilſt they are over heated
+with wine, through the defect of the braine they ſeeme to bee happy. Truely 
+<pb n="13" facs="tcp:31538:9"/>the felicity of ſuch men is farre in<g ref="char:EOLhyphen"/>feriour to the
+happineſſe of the brutish beaſts; for they can take the ſame
+pleaſures more freely with out daunger of health, anxiety, or feare. But in
+theſe there, is noe peace, or ſatiety of the will; but rather a certaine
+dullneſſe of mind, that makes evil appeare in the like<g ref="char:EOLhyphen"/>neſſe of good,
+and ſoe come to bee coveted. As it vſes to happen to thoſe that are
+ſicke of a feavor, who through their diſtemper de<g ref="char:EOLhyphen"/>ſire what is hurtfull,
+and loath nothing more then wholſome mea<g ref="char:EOLhyphen"/>tes. If theſe things bee true of
+thoſe that have pleaſures at their will; what may bee ſayd of the
+miſera<g ref="char:EOLhyphen"/>ble lot of thoſe who ſeldome at<g ref="char:EOLhyphen"/>taine, and poſſeſſe even
+for a short time, this vaine and imaginary fe<g ref="char:EOLhyphen"/>licity, which they ſoe much
+labour for, and buy with the loſſe of an<pb n="14" facs="tcp:31538:10"/>aeternity, and
+the ruine of their ſoule. But becauſe they doe not re<g ref="char:EOLhyphen"/>gard devine
+pleaſure, nor rayſe their minds to heavenly things, they therefore juſtly
+beginne their pu<g ref="char:EOLhyphen"/>nishment with their ſmnes, and walking <hi>In a circle</hi>
+beeing deceived bv on creature they paſſe on to another to borrow
+comfort.</p>
+            <p>Rayſe thy mind to thy creator, love him alone, him a lone feare,
+regard all things in him alone, and to him a lone direct all things. Thus
+layſed, relving on the Onni<g ref="char:EOLhyphen"/>potent, deſpiſe the Creatures vnder you. Then
+all things shall cooperate to your good; when you referre all things to their
+author, from whome, both you, and they take their of<g ref="char:EOLhyphen"/>fpring. You shall have
+peace; if you take all things from God, and referre them to him againe; what
+elſe ſoever you doe, you goe<pb n="15" facs="tcp:31538:10"/>diſorderly to worke, and
+shall ne<g ref="char:EOLhyphen"/>ceſſarily looſe your peace.</p>
+         </div>
+         <div n="2" type="chapter">
+            <head>CHAPTER II. How a Soule relying on God may have Peace both in
+adverſity and Proſperity.</head>
+            <p>
+               <seg rend="decorInit">L</seg>Ord it is as you ſay: peace is only to bee had in you. All
+other things are im<g ref="char:EOLhyphen"/>perfect &amp; defective goods, if they are to bee caled
+goods, and not rather evils, which fill the minde with ſoe many evils, which
+provoke the Appetite, but doe not ſatiate, rayſe thirſt, but doe not
+extinguish it; puffe vp, but neither doe nor can nourish: for as the body is 
+<pb n="16" facs="tcp:31538:11"/>not nourished with ſpiritual food, ſoe is not the
+ſoule delighted with cor<g ref="char:EOLhyphen"/>poral pleaſures. I now therefore re<g ref="char:EOLhyphen"/>turne to thee
+ô Lord, I have ſought reſt in all other things, Ile' now at laſt,
+by they leave, <hi>make my a boad in they inheritance, that I may ſleept and
+reſt in peace.</hi>
+            </p>
+            <p>
+               <hi>Becauſe thou Lord haſt ſingulary ſettled mee in
+hope,</hi> ile only ſeeke thee an infinite good, where with the whole
+capacity of my ſoule can bee filled, a permanent good that cannot bee taken a
+way from me vnles I will, an endleſſe good that can make thoſe that love
+it happy for an aeternity. Ile only ſeeke thee I ſay; for when ſoever I
+have ſought after other things I have found my ſelfe deluded.</p>
+            <p>I now know that peace is only to bee ſought in thee, but know
+not how it is to bee had. Teach mee<pb n="17" facs="tcp:31538:11"/>therefore a Lord yet
+farther, how I may come to perſever in a con<g ref="char:EOLhyphen"/>tinual peace in thee, with out
+diſtur<g ref="char:EOLhyphen"/>bance; for though I doe ſeeke thee, yet adverſityes doe not
+ceaſe to befale mee, which deſtroy the peace of my mind. Yea even when
+things fale out properouſly, I am preſently for<g ref="char:EOLhyphen"/>getfull of my ſelfe, and
+inſteede of the peace which I ought to have in thee, I place it in creatures;
+which peace is not ſinſere; and ends in grievous warre.</p>
+            <p>Sonne you would faine know how you may in all accidents proceed
+with ſuch indifferency, that you doe not over much rejoyce in proſpe<g ref="char:EOLhyphen"/>rity,
+or give way to bee vnprofita<g ref="char:EOLhyphen"/>bly contriſtated in adverſity, where in the
+ſumme of my peace does conſiſt, which that you may obtaine, Conſi<g ref="char:EOLhyphen"/>der
+thus with mee.</p>
+            <p>Mans' nature is ſuch, that what<pb n="18" facs="tcp:31538:12"/>ſoe ever
+the vnderſtanding repre<g ref="char:EOLhyphen"/>ſents as good, the will preſently embraces, and
+what is repreſented vnto the vnderſtanding as evil, that the will
+preſently avoyds, shunnes, and hates. Soe that of neceſſity the
+affectiones of joy and ſadneſſe muſt vary, as long as the
+viciſſitude of good and evil laſt. (And by conſe<g ref="char:EOLhyphen"/>quence the peace, and
+indifferency of mind bee loſt) noe man can have a perfect, or imperfectly
+happy peace, but hee, vnto whome always what is good happens. Nor doe any
+ſort of goods quiet and ſatisfy the mind; but only thoſe, that are ſuch
+as the will covets according to right rea<g ref="char:EOLhyphen"/>ſon. How then shall you come to
+poſſeſse peace of mind?</p>
+            <p>To the end you may always have what you wish, you muſt have an
+in<g ref="char:EOLhyphen"/>differency to all things, and it muſt bee all one, what ſoever happens 
+<pb n="19" facs="tcp:31538:12"/>to you, without your fault. For ſeeing you cannot rule
+things as you will, you muſt accomodate your will to things, if you will have
+your will agree with them, which you muſt obſolutly wish for, to enjoy
+peace, which conſiſts in the wills acquieſs<g ref="char:EOLhyphen"/>ing with content, to what
+ſoe ever happens. You muſt not therefore more covet pleaſures then paine,
+nor preferre eaſe to labour, nor rather wish life, then death; but keepe your
+ſelfe in an aequal ballance of indiffe<g ref="char:EOLhyphen"/>rency to all things. Now, you cannot
+bee indifferent to all things, vnleſſe they all appeare aequaly to bee
+deſi<g ref="char:EOLhyphen"/>red. For as long as you judge one thing more to bee deſired then
+another, ſoe long you shall rather incline to one thing then another, and
+ſoe looſe your indifferency. Now to the end that all things may appeare
+aequaly to bee deſired, harken to an<pb n="20" facs="tcp:31538:13"/>abbreviated word,
+wherin the hap<g ref="char:EOLhyphen"/>pineſſe of Pilgrimmes is conſumma<g ref="char:EOLhyphen"/>ted, and the content of
+all Saints conſiſts, and this is the word my ſonne, <hi>Conſider all
+things in mee, and not in themſelves.</hi> This is the art of arts, the gate
+of the kingdome of heaven, and the ſource of peace. Conſider all things in
+mee and not in themſelves, that thou mayſt have peace in all things.</p>
+            <p>If you rightly Conſider all things, you shall ſee they proceed
+from mee, and perceive that nothing happens vnto you, but what the in<g ref="char:EOLhyphen"/>finit
+goodneſle, and wiſdome has out of an aeternal love, ordered for your
+greater good. If you Conſider all things in this love, they shall all ſeeme
+good, all aequaly to bee deſired, and ſoe by conſequence you shall have
+an indifferency to all, and shall wish moſt for what happens, 
+<pb n="21" facs="tcp:31538:13"/>becauſe you will not Conſider things in themſelves,
+but in mee, and judge it more fitting, my will bee done, then thine, becauſe
+it ought to bee ſoe, and it is moſt expedient for thee. Noe other
+conſideration, but this will afford thy ſoule peace. For if you Conſider
+poverty, if contumely, if labour, if ſickneſſe if death, or any thing
+that happens of adverſity in it ſelfe, you cannot beare them without great
+trouble and afflicion of mind, becauſe ſoe they are all contrary to nature.
+If you doe conſider theſe things as proceeding from your, or their
+ſinnes, they will yet ſeeme more intollerable; becauſe the manner of
+punishment will torment the minde as much, as the inflicted evil in like manner
+when you ſee the juſt per<g ref="char:EOLhyphen"/>ſecuted, and the wicked exalted, you will bee
+enraged againſt triumphing<pb n="22" facs="tcp:31538:14"/>impiety, and will not bee able
+to containe your ſelfe from the deſire of revenge. But if you recale all
+theſe things to their firſt of ſpring, you will bee able to behold them
+without diſturbance. You shall vn<g ref="char:EOLhyphen"/>derſtand all, when you read all in the
+booke of devine providence, where in the reaſons of all things are. And what
+weyghed in the ballance of humane reaſon appeares vnjuſt, shall bee found
+in the ſcales of the devine wiſdome juſt and moſt fitting. All things
+ſerve for this only affaire of aeternity, the ſalvation of the elect. If
+the Turkes preſſe, if He<g ref="char:EOLhyphen"/>riticks are multiplyed, if the wicked domineere,
+tis not for the Turks, nor hereticks, nor the wicked ſake, but for the elect
+that by patience they may enter into the Kingdome of heaven. If there were any
+thing that did not conduce to the good<pb n="23" facs="tcp:31538:14"/>of the elect, God
+would have erred in his worke, who only made or permitted all things, that they
+should cooperate to the good of the elect<g ref="char:punc">▪</g> This is Pauls minde. <hi>All
+things<g ref="char:punc">▪</g> cooperate vnto good to thoſe that are caled according to
+purpoſe Saints.</hi> What is given to one of the leaſt of theſe whome God
+has choſen is of ſoe great moment, that it is noe wayes to bee omitted, and
+King<g ref="char:EOLhyphen"/>domes and empires are rather to perish, and the whole earth, and heaven it
+ſelfe, rather to bee anni<g ref="char:EOLhyphen"/>hilated, then that one of the elect should bee
+loſt. Soe great a thing, it is, to ſee the face of God. Ney<g ref="char:EOLhyphen"/>ther will this
+ſeeme ſtrange if thou Conſider mee who when I <hi>was in the forme of God
+did robbe my ſelfe, to the end that by my death</hi> I might open the way to
+heaven for each of theſe little ones.</p>
+            <p>
+               <pb n="24" facs="tcp:31538:15"/>Conſider therefore Sonne all thing<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> in mee, and beholde mee in
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> things working as I will; to
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> glory, and thy ſalvation, and
+of <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <g ref="char:punc">▪</g> That will cooperate
+with my gra<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and though you doe not
+percei<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> how I compaſſe this in
+all thing<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> yet firmly beleeve I doe
+ſoe, in eve<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> thing, and ſoe
+deliver your will in<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> my hands,
+moſt certainly know it<g ref="char:punc">▪</g> that I shall wiſely and forcibly pe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>fect my worke, and that Ile' neith<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> doe, or permitt any thing, th<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> shall not bee for your good, an<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> promote you towards the deſigne<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Bravium</hi> if that you will but mak<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> vſe of my grace.</p>
+            <p>Who ſoever shall root this trut<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> well in his mind, shall never be<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> uoyd of peace of mind, and shal<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> looke adverſity, and proſperity vn<g ref="char:EOLhyphen"/> davntedly in the face
+without any change of affection, becauſe the <pb n="25" facs="tcp:31538:15"/>motive of
+his affection shall never vary. Hee shall all ways rejoyce becauſe hee shall
+ever finde the good, which hee only ſeekes for; and hee shall always rejoyce
+in the ſame manner, becauſe hee shall ever finde the ſame reaſon of
+good in all things; to wit my glory, joy<g ref="char:EOLhyphen"/>ned with his welfare.</p>
+            <p>Sonne I doe not ſay you shall ever as long as you live, come not
+to feele the acrimony of griefe, or allurement of pleaſure. But I ſay that
+the ſoule that is ſolidly ſettled in mee may ſoe commaund theſe
+af<g ref="char:EOLhyphen"/>fections, that shee shall not looſe her tranquillity in adverſity,
+though shee groane vnder the wound of the doctor, nor rejoyce in proſpe<g ref="char:EOLhyphen"/>rity,
+as proſperity, but in my will which shee acknowledges as the only true
+meaſure, of good and evil. This only conſideration of<pb n="26" facs="tcp:31538:16"/>my
+will, shall ſoe swallow vp, all other Conſiderations that they shall not
+appeare, and though they ſtrike the ſence, they shall not move the
+judgment, nor caſt the will out of her Imperial Throne; but as a poore man
+choſen out of a Cottage to a faire Kingdome is full of joy, which does not
+ceaſe, or is diminished, though the Cot<g ref="char:EOLhyphen"/>tage fale to the ground at the ſame
+moment, nor would bee encreaſed though the Cottage should bee made greater:
+becauſe his thoughts are wholy employed vpon the gained Kingdome. Soe who
+ſoe<g ref="char:EOLhyphen"/>ver labours for Eternity makes Gods glory and his owne ſalva<g ref="char:EOLhyphen"/>tion his
+only buſineſſe, and thinkes this affaire ſoe much to ſurpaſſe all
+others, that hee cannot find leaſure to thinke of them, much leſſe to
+rejoyce, or bee ſadde<pb n="27" facs="tcp:31538:16"/>for theſe toyes of mortals. And
+truely as this poore man aſſumed to a Kingdome would deſerve to bee
+laughed at, if hee were ſtill ſollicitous for his Cottage: much more does
+the man deſerve to bee laughed at, or rather lamented who beeing made heire
+of God, will not accept of this Kingdome, but caſt himſelfe a way vpon
+childish follyes, and only ſeeke a temporal convenience, in things ordred for
+gaining an eternity. But this pro<g ref="char:EOLhyphen"/>ceeds from the great weakneſſe of humane
+vnderſtanding though there bee an infinite Kind of diſ<g ref="char:EOLhyphen"/>tance, between
+temporal &amp; eternal things, yet it prefers them before theſe: becauſe it
+only beholds heavenly things as it were a farre of through a cloude, and
+handles earthly things, it comes to paſſe that the moſt excelent things
+beeing<pb n="28" facs="tcp:31538:17"/>only conceived in a drouſy dead manner doe not move
+the ſoule, and the ſenſual and perishing goods, though very ſmale in
+themſelves, becauſe they are more lively repre<g ref="char:EOLhyphen"/>ſented, and have a greater
+propor<g ref="char:EOLhyphen"/>tion with corrupt nature, doe wholy take the minde, and in<g ref="char:EOLhyphen"/>flame the
+will. Now ſeeing it is certaine the mind is moſt carryed a way with thoſe
+things that have the greater appearance of good; the chiefeſt induſtry and
+labour of a wiſe man, ought to bee to en<g ref="char:EOLhyphen"/>deavour to conceive thoſe goods as
+greateſt, and moſt lively to propoſe them to the will; which truely in
+themſelves are greateſt, and effect, that all other things which are not
+realy good, appeare ſor<g ref="char:EOLhyphen"/>did, and vile, at the firſt aſpect. Who ſoever
+shall doe this shall not love any good more then hee<pb n="29" facs="tcp:31538:17"/>ought,
+but aequaly empart his af<g ref="char:EOLhyphen"/>fection to each, according to the dictate of right
+reaſon; and ſoe at laſt come to live in true peace; not leaving in
+himſelfe any motion of the will not regulated.</p>
+            <p>But this is not the worke of one day; long labour, and much
+me<g ref="char:EOLhyphen"/>ditation is neceſsary to inſtruct and helpe the mind, to blott out the
+falſe Ideas it has conceived, and begette true notiones of things, and ſuch
+as shall of theire owne accord prevent the will, and ſoe rayſe it to
+contemplate the eternal good in every thing, as now the carnal appetites doe
+incline to the ſeeking of temporal convenience. Nor is me<g ref="char:EOLhyphen"/>ditation alone
+ſufficient to per<g ref="char:EOLhyphen"/>forme this, vnleſſe it bee accom<g ref="char:EOLhyphen"/>panied with a
+continu<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> practiſe added
+thereunto; for meditation only conceives, but it is practiſe
+<pb n="30" facs="tcp:31538:18"/>that brings forth; and vnleſſe action follow
+contemplation, it is not ver<g ref="char:EOLhyphen"/>tue, but vanity that shall encreaſe. Therefore
+Sonne to the end you may obtaine my peace, and put in execution what you have
+concei<g ref="char:EOLhyphen"/>ved, you muſt doe thus.</p>
+            <p>Firſt if what you are about, bee a good, convenient to nature
+(as are ſleepe, meate, recreation ho<g ref="char:EOLhyphen"/>nour, and what ſoever other goods of
+nature) conſider it to have a twofold manner of good<g ref="char:EOLhyphen"/>neſſe one natural,
+and the other ſupernatural. The natural good<g ref="char:EOLhyphen"/>neſſe is that congruence
+which the thing has with our body and ſoule, and the ſupernatural is the
+ordina<g ref="char:EOLhyphen"/>tion of the thing to doe Gods will, and for his glory, and your
+ſalva<g ref="char:EOLhyphen"/>tione, for which ends you muſt certainly beleeve all things in the
+world are either done, or per<g ref="char:EOLhyphen"/>mitted.<pb n="31" facs="tcp:31538:18"/>I call this Kinde of
+good ſupernatural to diſtinguish it from the other. Now having conſidered
+theſe two Kinds of good, though nature doe never ſoe much propend towards
+the natural goodneſſe, yet you ought to judge the thing to deſerve much
+more to bee coveted for its ſupernatural goodneſſe. Ney<g ref="char:EOLhyphen"/>ther does the
+whole ſea more exceed a droppe of water then this ſuper<g ref="char:EOLhyphen"/>natural
+goodneſſe does ſurpaſse the natural. For the natural goodneſſe does
+proceed from an imperfect Limited, and corruptible object, and the
+ſupernatural draws its goodneſſe from the moſt perfect, infinite, and
+Eternal object. This judgment being preſupoſed, the will is to bee
+ſtirred vp, not to deſire that good for its natural goodneſs which is
+ſoe ſmale that it ought not to bee
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>arded, but for that which is 
+<pb n="32" facs="tcp:31538:19"/>infinitly more deſerving, that is, for the ſupernatural
+goodneſſe; nor ought you to beginne any action before you find your ſelfe
+to bee moved to doe it, becauſe it is my will. What is ſay'd of your
+actions is to bee vnderſtood of all other natural goods. Thus when any
+con<g ref="char:EOLhyphen"/>gratulate with you for any good parts in you, you muſt keepe your will,
+from beeing carryed a way with the natural goodneſſe, and endeavour to
+rayſe it, to rejoyce in this congratulation and accept of it, as a gift of
+God, whereby God intends to worke his glory and your ſalvation.</p>
+            <p>You muſt alltogether take great care, not to take delight in
+crea<g ref="char:EOLhyphen"/>tures; for there is not any more deadly enimy of true peace, then this joy
+and content. For who ſo<g ref="char:EOLhyphen"/>ever place their joy in creatures<pb n="33" facs="tcp:31538:19"/>shall not rejoyce long; for all crea<g ref="char:EOLhyphen"/>tures paſſe a way, and none
+can ſtand long that relyes on them. If you rejoyce at the poſſeſſion
+of a thing you ſee is ſoone like to pe<g ref="char:EOLhyphen"/>rish you muſt needs bee
+contriſta<g ref="char:EOLhyphen"/>ted at the loſſe thereof. Doe not therefore ſerve two
+maſters, God, &amp; the Creature, but ſerve God only, &amp; bee above all
+other things. Never let your joy reſt in any creature, but what ſoever joy
+or comfort you finde in any; embrace it, be<g ref="char:EOLhyphen"/>cauſe that is my will: who did
+vouchsafe to mingle ſome corporal delight with your actions, that you might
+come to mee with the more alacrity. Take therefore the delight and joy which
+ſome times ariſes from creatures, as comming from my hand, and returne it
+againe to mee, leaſt your joy prove vaine and deceitfull. And this is the
+firſt<pb n="34" facs="tcp:31538:20"/>precept to bee carefully obſerved in things that
+pleaſe nature.</p>
+            <p>The ſecond, which is not vnlike to this, ought to bee as
+carefully obſerved in adverſity. When there<g ref="char:EOLhyphen"/>fore any thing of adverſity
+happens, enter into your ſelfe, and you will perceive the thing may bee
+conſi<g ref="char:EOLhyphen"/>dered two ways alſoe. Conſidered in it ſelfe it is evil, and
+con<g ref="char:EOLhyphen"/>trary to nature: but if that you re<g ref="char:EOLhyphen"/>flect, that adverſity proceeds from
+mee, you will ſee it containes ſoe much good, as ordained to my glory, that
+it shall conſume with its goodneſſe all manner of evil, as the rodd of
+Moyſes devoured all the other rodds. You muſt not therefore bee terrifyed
+at this evil which is but ſmale, but encouraged and comforted with the good.
+For if labours, paines, and wounds can bee joyfully borne in this life, with 
+<pb n="35" facs="tcp:31538:20"/>the hopes of ſome reward that will enſue, of a temporal
+good; how much more reaſon is there, that, any labour or paines should bee
+vndergone joyfully, where the good propoſed for reward is infinite. Truely if
+you had but eyes to ſee what an immenſe good it is to ſuffer for God,
+there is nothing you would ſoe much covet as to bee dayly afflicted; you
+would eſteeme it the greateſt joy, to fale into tentationes, you would
+re<g ref="char:EOLhyphen"/>joyce that you were thought wor<g ref="char:EOLhyphen"/>thy to ſuffer contumely for my name; for
+certainely there is no<g ref="char:EOLhyphen"/>thing more holy or glorious, more profitable or
+ſecure, then to ſuffer tribulationes. I came into the world, to ſuffer
+for thee, and you came, into the world to ſuffer for mee, that ſoe you may
+bee Crow<g ref="char:EOLhyphen"/>ned by me. This is the profeſſion<pb n="36" facs="tcp:31538:21"/>of Saints to
+rejoyce in tribulati<g ref="char:EOLhyphen"/>ons, this is the diſtinctive ſigne of my Church, to
+groe in the midſt of perſecutions. O That you did know, how pleaſing a
+patient ſoule exerciſed, and tryed, with various afflictions is! you would
+then much more covet to bee contemned then honored, <hi>You would repute
+laughter an errour, and ſay to joy why are you deceived to noe
+purpoſe.</hi> If you did well conſider, what daunger there is in
+proſperity, and how ſcure, and great gaine there is in adverſity; beleeve
+mee all that is bitter would become ſweet, and all that is ſweet bitter.
+You would preferre ignominy before honor, and greife before joy. You would
+feare leaſt whilſt men did applaude, you should fale in ſoe ſlippery a
+paſſage, and ſoe offend mee: and when any creature did pleaſe you, you
+would bee ſorry<pb n="37" facs="tcp:31538:21"/>that your affection were devided, and not
+as yet wholy placed on mee; and loved any thing beſides mee, though not
+contrary to mee. You would bee glad and rejoyce when adverſity did befale
+you, to drinke of my chalice, you would deſire to beare my croſse, and
+become pertaker of my goodly inheritance by the devine digna<g ref="char:EOLhyphen"/>tione.</p>
+            <p>Then laſtly shall your peace bee with out diſturbance, when
+ad<g ref="char:EOLhyphen"/>verſity shall become more pleaſing to you then proſperity, when you
+shall rejoyce in griefe, and ſtill deſire to ſuffer more. But even this
+deſire muſt not paſſe the bounds of indifferency: but you muſt bee
+ſoe affected, that though you bee equaly prepared to receave all things from
+my hands, on your part you deſire to ſuffer (if it bee my holy will)
+becauſe it is ſoe pleaſing before my<pb n="38" facs="tcp:31538:22"/>father who wills
+this for his glory, to the end you should imitate my paſſion, and in your
+patience poſ<g ref="char:EOLhyphen"/>ſeſſe your ſoule.</p>
+            <p>This then ô Lord is your doc<g ref="char:EOLhyphen"/>trine (to the end I may enjoy
+an vndisturbed peace) that all things, and eſpecialy adverſityes, are to
+bee imbraced as meanes ordained for thy glory, and my ſalvation. I give thee
+a thouſand thankes that thou haſt vouchſafed to deale ſoe mercifully
+with mee, as not to permitt any thing either in, or a<g ref="char:EOLhyphen"/>bout mee, but what
+conduces to help mee to thee. If eyther man or Angel had ſuch care of mee as
+to aſſiſt mee in all my actions I ought to bee thankfull. But now that
+you the Lord of all things, and my God, and Creator, are pleaſed to ordaine
+all my actiones, what shall I doe but wholy deliver my<pb n="39" facs="tcp:31538:22"/>ſelfe vp to your will, and willingly accept of what ſoever you
+shall ordaine. I therefore ô Lord wholy deliver my ſelfe vnto thee, and
+entirely reſigne my ſelfe vnto thy will. I can feare nothing vnder ſoe
+good a maſter: But if I did, the be<g ref="char:EOLhyphen"/>nigne Providence wherewith you have
+governed mee from my in<g ref="char:EOLhyphen"/>fancy would reproch my diffidence: for you a lone
+ô Lord have always aſſiſted mee, by ſea and Land, you have
+preſerved mee in ſeveral Pro<g ref="char:EOLhyphen"/>vinces and countryes. My father and mother
+have forſaken mee; but you have embraced mee, and I have founde none that
+have taken care of mee, but thee ô Lord, or for thee: nor doe I complaine
+of this, but rejoyce, and wish with my whole hart that I may know none, nor
+none know mee, that I may love none, nor none love mee, but you, 
+<pb n="40" facs="tcp:31538:23"/>and for you, whome in all things I deſire to ſeeke, and
+confide in above all things.</p>
+         </div>
+         <div n="3" type="chapter">
+            <head>CHAPTER III. That ſome Principles for Peace are to bee drawen
+from the knowledge of ones ſelfe</head>
+            <p>
+               <seg rend="decorInit">S</seg>Onne you have now Learnt the firſt principle of peace, which
+in all events can afford a tran<g ref="char:EOLhyphen"/>quility of minde. For hee that con<g ref="char:EOLhyphen"/>ſiders God
+in all things, and all things in God, findes all in peace, and enjoyes
+perpetuall tranquillity. This a lone is enough to afford<pb n="41" facs="tcp:31538:23"/>peace and without this nothing will ſuffice. You muſt therefore
+labour for this, and when you arrive to the hight of charity, you shall enioy
+the moſt perfect peace. If you cannot on a ſuddaine fly high at leaſt
+clyme dayly as high as you can, that you may at laſt come to the hight of
+peace and perfection. The more you come to conſider all things in God, the
+more peace you shall find, and the more you faile of it, and betake your
+ſelfe to conſider creatures in themſel<g ref="char:EOLhyphen"/>ves, the more disquiet shall you
+experience. Worldly things are like a torrent, which may bee ſecurely looked
+on, but not truſted, for if you are once engolfed there is noe retiring
+backe, but are forced on to your ruine Conſider there<g ref="char:EOLhyphen"/>fore God in Creatures,
+yet doe not truſt your ſelfe to Creatures,<pb n="42" facs="tcp:31538:24"/>but beholding
+God in all, as you ſee the Sunne in water, take care you bee not drowned.
+Know that the leſſe you have of worldly things, the more you shall enjoy
+heavenly. Rid thy ſelfe therefore of the love of creatures, that thou mayſt
+beginne to love the creator: vſe thy ſelfe to have nothing that thou
+mayſt poſſeſse all things. Thou shalt bee ſoe long deceived, as thou
+doeſt confide in creatures; thy griefe shall ever equal the joy found in
+Creatures; and thou shall looſe as much of true liberty, as thou haſt of
+tye and affection to Creatures. True liberty does not only free from
+neceſſity but rids of all tyes of ſelfelove, and leaves the will in a
+perfect indifferency ready to follow Gods pleaſure in all things.</p>
+            <p>And this is the firſt principle<pb n="43" facs="tcp:31538:24"/>of peace
+drawen from the con<g ref="char:EOLhyphen"/>templation of God. The next muſt bee gathered from the
+know<g ref="char:EOLhyphen"/>ledge of your ſelfe. Study there<g ref="char:EOLhyphen"/>fore the knowledge of your ſelfe if
+thou deſire peace, for next vn<g ref="char:EOLhyphen"/>to God, all your peace and hap<g ref="char:EOLhyphen"/>pineſſe
+depends chiefly of your ſelfe. And that knowledge of your ſelfe shall
+moſt conduce to your peace, whereby inordinate af<g ref="char:EOLhyphen"/>fections are cutt of, that
+trou<g ref="char:EOLhyphen"/>ble and diſturbe the mind. This is the perfect knowledge of your owne
+baſeneſſe whereby you will caſt of your ſelfe, and all ſelfe
+confidence, wholy placeing your hopes on mee, to the end you come not to build
+on ſand, but on a firme Rock, an indeficient peace.</p>
+            <p>Lord you bid mee conſider my ſelfe, to find peace; and when I 
+<pb n="44" facs="tcp:31538:25"/>doe ſoe, I am much diſturbed and full of Confuſion:
+where ſoever I turne my ſelfe, I finde miſeryes and daungers on all
+ſides. I am a Pilgrimme in my nothing, and goe on for an incertaine ſpace
+of time, in a daungerous jorney to eter<g ref="char:EOLhyphen"/>nity. It is common to all men to bee
+Pilgrimmes as well as mee; yet the peril becomes not leſſe, by the greater
+multitude that runne the haſard, but feare is rather encreaſed by the
+frequent examples of thoſe that perish. All men in this world are travalers
+walking on the ſlippery declivity of a moſt deepe precipice, at the bottome
+where of hell is ſeated, and heaven at the toppe: but heaven lyes hid with a
+cloud, and hell is covered with the pleaſant amaenity of greene and delitious
+meddoes, ſoe that allmoſt all, not co<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ring<pb n="45" facs="tcp:31538:25"/>heaven, nor hell, as they ought,
+are eaſily carryed whither the alluring pleaſures inuite. And if any one by
+reaſon, find out the deceit<g ref="char:EOLhyphen"/>fullneſſe of our ſences, and diſco<g ref="char:EOLhyphen"/>ver
+the ambuish, what shall hee doe? shall hee clime vp? but his weake feet ſlipp
+away, but the path is cragged and inacceſſible to human ſenſe, but the
+darke and thick cloud threatens tempeſt and daunger of shipwracke. Thus all
+things drive downe-wards, the flesh, the world, and the devil, all hinder the
+aſsent, the thorny and difficult way, the travalers weakneſſe, and the
+imminent tem<g ref="char:EOLhyphen"/>peſt. Yet wee muſt aſcend, wee muſt clyme vpwards. But
+with what forces? ô Lord not ours, but thine: this is the worke of thy
+mercy which makes that poſſible by grace, which is impoſſible to
+nature.<pb n="46" facs="tcp:31538:26"/>I am not able of my ſelfe to worke my ſalvation
+vnleſſe you that com<g ref="char:EOLhyphen"/>maund, give mee forces to doe what you ordaine.</p>
+            <p>Now if I looke into my ſoule, alas how poore and miſerable am
+I? The vnderſtanding capable of little, knowes very few things. If I run<g ref="char:EOLhyphen"/>ne
+over all creatures I have not knowledge of the hundered thou<g ref="char:EOLhyphen"/>ſand part of
+them; and if an vn<g ref="char:EOLhyphen"/>profitable knowledge is a Kind of ignorance, what a deale of
+what I know is wholy vnprofitable? Or even ſometimes hurtfull. A gaine a mong
+thoſe few things I know, if I examine each in particuler I shall clearely
+ſee I know noe one thing, I ſay not perfectly, &amp; as to the eſſence
+but even ſuperficially in order to the vſes it was given for. As for
+heavenly things, which it were only fit to know, I doe almoſt 
+<pb n="47" facs="tcp:31538:26"/>allwayes erre by a certaine Kind of neceſſity: for as a
+Mathemati<g ref="char:EOLhyphen"/>ciane that does vſe inſtruments that are not exact or well
+proportioned cannot chuſe but erre: Soe for the moſt part my ſoule making
+vſe of the ſences of the body which have noe proportion with ſpirituall
+and heavenly things, judges nothing rightly but generaly allwayes erres, where
+it is not led by the conduct of devine faith.</p>
+            <p>I inquire after the enormity of ſinne and find noe meaſure for
+it, for I have offended God more then any humane thought can conceive. I
+ſeeke what Eternity is, and meaſure it by time, becauſe I have noe other
+meaſure of Eternity: for though time bee not the meaſure of Eternity yet it
+is more like it, then other things that have noe ſimilitude, the<g ref="char:EOLhyphen"/>rewith: I
+ſeeke to vnderſtand the<pb n="48" facs="tcp:31538:27"/>happineſſe of the
+Bleſſed, and I define all according to a ſenſible love, where as that
+happineſſe ſur<g ref="char:EOLhyphen"/>paſſes all ſenſe, witneſſe the Apoſtle who
+teaches that <hi>Neyther eye ha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+ſeene, nor eare heard, nor hath it
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>cended into the hart of man, what
+things God has prepared for thoſe that love him.</hi>
+            </p>
+            <p>Thus am I ignorant of all things, and what is the greateſt
+weakneſſe of my vnderſtanding, is, that in all this palpable obſcurity
+and dark<g ref="char:EOLhyphen"/>neſſe, I am ignorant of my owne ignorance, and if I find others
+more abſurd then my ſelfe, I preſently cloake my ignorance with the faire
+name of wiſdome; I will not compare my ſelfe with many that excelle mee,
+leaſt I should come to the knowledge of my owne weakeneſſe, but with a
+few which I judge inferiour, that others greater<pb n="49" facs="tcp:31538:27"/>madneſſe may flatter my phrenſy, and I ſeeme to know the more,
+the leſſe I doate. And this is that great Idole which does ſoe puffe vp
+my poore vnderſtanding, that it is not capable of other things. Theſe are
+the diſtempers of the vnder<g ref="char:EOLhyphen"/>ſtanding: now how much more da<g ref="char:EOLhyphen"/>ungerous are the
+diſeaſes of the will? O what a civil warre doe I ſuffer with in my
+ſelfe, whilſt ſoe many ſeveral contrary affections, and paſſions
+each draw their way? The ſea is not ſoe toren with con<g ref="char:EOLhyphen"/>trary winds as my
+mind is rent, and toſt toe and froe with contrary deſires. The flesh and
+ſpirit each draw their way, hope and fea<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:punc">▪</g> anger and puſillanimity, avarice and luxury; and the mind
+is devi<g ref="char:EOLhyphen"/>ded on the one ſide with the la<g ref="char:EOLhyphen"/>bour of acquiring glory, and on the
+other with the shame of loos<g ref="char:EOLhyphen"/>ing <pb n="50" facs="tcp:31538:28"/>it. O raving ambition! o
+cruell torment! yet but a juſt pu<g ref="char:EOLhyphen"/>nishment of thy ſelfe. How much more
+happy should I bee, if con<g ref="char:EOLhyphen"/>tent with a mediocrity, I did caſt a way all hope
+or feare of humane things? For now that I ſeeke hu<g ref="char:EOLhyphen"/>mane prayſe, and feare
+diſprayſe, I am ouerwhelmed with a multi<g ref="char:EOLhyphen"/>tude of diſagreeing paſsions
+which only ſerve, to hinder mee from obtaining the peace I ſoe much ſeeke
+after.</p>
+            <p>Theſe o Lord are the things that paſſe my hart, when you my
+peace, my joy, and my Crowne are ab<g ref="char:EOLhyphen"/>ſent. And there is yet another great evil
+that praedominates which is inconſtancy. O how weake is my will? I ſeldome
+beginne to doe well, but I preſently come to faile. I not ſooner reſolve
+great matters, and make great purpoſes, but at the<pb n="51" facs="tcp:31538:28"/>firſt
+occation of difficulty all my fervour is loſt, and like an infant I am puffed
+vp with a ſmale good, and caſt downe againe with as ſmale an evil; and in
+the meane time, live in noe ſmale daunger: for though the fale bee eaſy,
+the ruine is aeternal. In the midſt of tentations I live dayly in daunger of
+being overcome, with Idleneſſe, anger, pride, puſilanimity, or
+pre<g ref="char:EOLhyphen"/>ſumption, of faling through the concupiſcence of the flesh or eyes,
+into ſinne, beeing ſurrounded with infinite occations. And if I offend in
+one, I am guilty of all, and the fale is erreparable if death ſeaſes on mee
+offending. If one might dye twice, and live as often; At leaſt the ſecond
+life might bee rightly ordered, and the ſoule better in<g ref="char:EOLhyphen"/>formed of the truth
+of things, would abhorre the daunger the ſeconde<pb n="52" facs="tcp:31538:29"/>time, but
+now that the blind vnder<g ref="char:EOLhyphen"/>ſtanding leads a blind will, I am forced to feare
+<hi>Leaſt they both fale into the pitt.</hi>
+            </p>
+            <p>If I muſt Iudge my ſelfe by the memory of my paſt life, my
+feare does much increaſe. Alas, woe is mee! how have I ſpent my time? where
+are the dayes of my life, how ill have I garded my ſences? How have I
+ſinned both interiourly and exteriourly? How ſeldome have I correſponded
+with devine grace? of all my actions, for ſoe many yeares, among ſoe many
+helpes, in the world or Religion, I have hardly performed any ſoe, but there
+has beene ſome thing to repent. Some times performed with ſloth and
+negligence, ſome times I have been puffed vp with good ſucceſſe, ſome
+times contriſtated at evil events; and never intirely cooperated with 
+<pb n="53" facs="tcp:31538:29"/>devine grace. This I have been, ſuch does my memory
+repreſent mee; and this and worſe shall I bee for the future, if thou Lord
+doeſt not prevent mee, with thy grace. Banisht, poore, ignorant,
+inconſtant, feeble, ſick, infirme in ſpirit, and more infirme in flesh,
+blind in the vnderſtanding, blinder in the will, prone to ſinne by nature,
+proner by evil cuſtome, I live a ſcandall to my brethren, a prejudice to
+Religion, and dangerous to my ſelfe. There is noe creature whoſe injuryes I
+am not expoſed to, there is noe member of my body that is not ſubject to
+innumerable mi<g ref="char:EOLhyphen"/>ſeryes, noe ſenſe but that eternal death may enter by, not
+a day, not an hower, not a moment, but that I am in great daunger of looſing
+an aeternity.</p>
+            <p>Lord whilſt I conſider theſe things<pb n="54" facs="tcp:31538:30"/>I
+cannot chuſe but bee much trou<g ref="char:EOLhyphen"/>bled, and ceaſed with feare and trem<g ref="char:EOLhyphen"/>bling.
+How then ô Lord doe you ſay that the knowledge of my ſelfe does
+contribute to peace of mind? Loe how even this imperfect knowledge of my
+ſelfe, makes mee a weary of my Life, and have noe mind to any thing, but to
+lament and weepe: If then I did fully know my ſelfe, and clearely ſee my
+baſ<g ref="char:EOLhyphen"/>neſſe what other should I find, but moſt bitter bitterneſſe and
+vncon<g ref="char:EOLhyphen"/>ſolable griefe?</p>
+            <p>Sonne doe not thinke you looſe your peace by the knowledge of
+your ſelfe. This thought is not with out paine and griefe, and there<g ref="char:EOLhyphen"/>fore
+worldings fly it as a diſturber of quiet. The knowledge of ones ſelfe takes
+a way ſloath and pu<g ref="char:EOLhyphen"/>ſillanimity, but not peace. Peace cannot conſiſt
+without ſecurity, nor<pb n="55" facs="tcp:31538:30"/>ſecurity without a feare, that
+pro<g ref="char:EOLhyphen"/>ceeds, from the knowledge of ones ſelfe. <hi>The feare of God is the
+begin<g ref="char:EOLhyphen"/>ning of wiſdome,</hi> and the knowledge of ones ſelfe the beginning
+of the feare of God. Vnleſſe all things bee rightly ordred in you, you can
+have noe peace, nor can you have any thing rightly ordered in, or concerning,
+vnleſſe you know your ſelfe.</p>
+            <p>There are three chiefe princi<g ref="char:EOLhyphen"/>ples, or maximes conducing to peace,
+to bee drawen from the knowledge of your ſelfe.</p>
+            <p>The firſt is, not to place any confidence in your ſelfe, but
+caſt all your hopes in Allm: God, who ſoever confides in himſelfe, shall
+bee deceived, and reſtleſſe. Doe not preſume of your ſelfe neither in
+great, little, or even the leaſt things; for of your ſelfe you can 
+<pb n="56" facs="tcp:31538:31"/>doe nothing. If in your dayly actions you doe relye, on
+your owne forces, you will neceſſarily fale, when aſſaulted with a
+ſtrong tentation: For on the one ſide your forces are not ſufficient, and
+on the other, not beeing vſed to make your recourſe to God, you will not
+bee able to hope, for his helpe: ſoe that you will come to bee left voyd of
+all helpe. The affaire of your ſalvation muſt bee perfited by God, and your
+ſelfe, and as God will not doe any thing with out you, ſoe can not you doe
+any thing at all with out God. Doe not therefore confide in thy ſelfe leaſt
+God leave thee to thy ſelfe: but begg of God that hee will vouch<g ref="char:EOLhyphen"/>ſafe
+powerfully to prevent thee, that ſoe thou mayſt bee able to doe all things,
+in him that ſtrengthens thee.</p>
+            <p>
+               <pb n="57" facs="tcp:31538:31"/>The beſt counſaile you can fol<g ref="char:EOLhyphen"/>low, is to
+enter into the abyſse of your owne baſeneſſe before you beginne any
+affaire, even the leaſt, to ſee, vnderſtand, and confeſſe, that you
+can doe nothing with<g ref="char:EOLhyphen"/>out mee, and when you have rightly conſidered the
+abyſse of your no<g ref="char:EOLhyphen"/>thing then aſcend vnto the hight of my mercy, which is
+above all my workes, and ſoe let <hi>one abyſſe invoke another
+abiſſe,</hi> and Ile' open the cataracts of heaven, and power<g ref="char:EOLhyphen"/>forth my
+grace vpon you. When you have thus humbled your ſelfe aske what you will, and
+it shall bee done. The exinanition of ones ſelfe is the moſt efficatious
+prayer. Leſſen firſt your pride, and then bend your knee in prayer. As
+often as you shall humble your ſelfe in any of your actions, ſoe often
+shall I aſſiſt you with my ommi<g ref="char:EOLhyphen"/>nipotency<pb n="58" facs="tcp:31538:32"/>that you may
+want nothing.</p>
+            <p>Loe therefore Sonne, what great good there is contained in the
+knowledge of your ſelfe. If you know your ſelfe, you will humble your
+ſelfe, and make your recourſe to mee, and if you have recourſe to mee,
+Ile' help you, and labour with you: and what can you feare when you have the
+Om<g ref="char:EOLhyphen"/>nipotent to aſſiſt you, who can as eaſily doe great matters, as the
+ſmaleſt things. You ought to feare nothing, but only confiding in your
+ſelfe: for as long as you place your confidence in God, you shall aequaly
+overcome all, becauſe you relye on him, who can with the ſame caſe doe
+all things either alone, or with you.</p>
+            <p>God therefore left man, naked, needy, and vnable to rayſe him 
+<pb n="59" facs="tcp:31538:32"/>ſelfe towards his end, becauſe hee would himſelfe,
+out of his infinite love allways aſſiſt him, with his wisdome rule him;
+with his power defend him: and replenish him with grace
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mediately floeing from himelfe. If
+you doe rightly vnderſtand theſe things you have lay'd a ſolide
+foundation of true peace. And if you are come to know your
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nperfections you have made a great
+ſteppe towards perfection<g ref="char:punc">▪</g> and this is the firſt fruite you muſt
+reape from the knowledge of your ſelfe, which being well vnderſtood, you
+will eaſily obtaine the two following.</p>
+            <p>The ſecond fruite then is, that this knowledge of your ſelfe
+cutts a way all vaine hopes by the rootes. Why doe you beginne with vaine hopes
+what of your ſelfe you are not able to effect? for whome doe 
+<pb n="60" facs="tcp:31538:33"/>you heape vp treaſures who are but a paſſenger that
+muſt leave them all to morrow? Eternity is at the dore, which will force thee
+to bid a long adieu to thy deſires, what will then become of the honour you
+ſoe dearly bought, and ſoe carefully cherished, when you shall ſleepe in
+duſt, and bee noe longer thought on? but graunt that all did prayſe you
+after death, what then? shall not the wormes ſtil feede in the ſame manner
+on thy corps? shall not thy ſoule bee tormented a like? perhappes many have
+prayſed, you in your life time which you knew not of, what were you the
+better for this vnknowen prayſe? Many alfoe have diſprayed you which you
+were ignorant of, and what are you the worſe? It will bee juſt ſoe after
+death, when neyther prayſe, nor diſgrace shall move you abſent, now and
+inſenſible.</p>
+            <p>
+               <pb n="61" facs="tcp:31538:33"/>If you did know your ſelfe you would curbe
+your ambition and live in a moſt profound peace. Doe not labour and take
+pains that others may know you, but endeavour to bee fully knowen to your
+ſelfe, and God. You are, what you are in the ſight of God, and not what men
+Iudge you. Doe not compare your ſelfe with others, but beholde your ſelfe,
+in the preſence of God, that you may allwayes humble your ſelfe. If you
+compare your ſelfe with others, to bee ſure your per<g ref="char:EOLhyphen"/>fections of body or
+mind, will not reach to a mediocrity, and la<g ref="char:EOLhyphen"/>bour what thou will, you shall
+find your ſelfe ſurpaſſed by a great many. Bee therefore content, that
+as many ſurpaſſe you in guifts of nature as God has preferred, and only
+endea<g ref="char:EOLhyphen"/>vour in matter of good will, and vertue (whereby a mans worth is 
+<pb n="62" facs="tcp:31538:34"/>only to bee meaſured) to bee a mong the firſt. If you
+bee in this or that office, if you bee prefer<g ref="char:EOLhyphen"/>red before this or that perſon,
+if this, or that man prayſe you. Does not the burdone encreaſe with the
+honor? Does not ſolicitude the punishment of ambitious encreaſe with theire
+prayſes? Prayſe and envy allwayes goe hand in hand, mirth and ſorrow are
+twinnes, nor has any ſeene the day of glory, that has not beene ſeconded by
+a night of ignominy.</p>
+            <p>This is the nature of the world that all ſtrive to pull downe
+thoſe that preceed them. Many compaſ<g ref="char:EOLhyphen"/>ſionate him falen, whome rayſed
+with proſperity, and ayming at great matters they shall ſtrive to keepe
+downe. If noe man did envy you, if you could eaſily gaine, and retaine
+honour, yet you ought<pb n="63" facs="tcp:31538:34"/>not to accept of it, if you did
+rightly know your ſelfe; for you were not created to ſeeke this humane day,
+if you had beene crea<g ref="char:EOLhyphen"/>ted for to bee renouned among men, God would have
+furnished you with other helpes for obtai<g ref="char:EOLhyphen"/>ning the glory of the world.
+Con<g ref="char:EOLhyphen"/>clude therefore from your Imbe<g ref="char:EOLhyphen"/>cility and weakeneſſe, that you were not
+made to bee great in this world, but in heaven, nor muſt you ſeeke to bee
+glorious before men, but God. Knowing therefore your ſelfe cutt of all vaine
+hopes, and caſt away all a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bi<g ref="char:EOLhyphen"/>bition, and only minde, covet, and ſtrive to have God for
+witneſſe of your actions, bee ſatisfyed to have him a lone for your
+ſpectator, who when you have lawfully contended, only can give you the
+rewarde. Let this bee the ſeconde<pb n="64" facs="tcp:31538:35"/>fruite of the knowledge
+of your ſelfe, that being poore, banished, abject and infirme, you ought not
+to preſume great matters, but all wayes ſett in the laſt place, and ayme
+at nothing that is great in this world, that you may find all things in the
+next.</p>
+            <p>The third fruite of this knowledge is Patience. If you know your
+ſelfe to bee a man, you know with what an innumerable multitude of
+afflic<g ref="char:EOLhyphen"/>tions you are encompaſſed on all ſides, and if you remember your
+ſinnes you will allways expect juſt punishment. You cannot being a man live
+without miſeryes, and being a ſinner, you ought not. It is therefore
+juſt, and neceſſary that you should always ſuffer. It is a foolish
+preſumption to expect to find noe adverſityes. Prepare your ſelfe then
+from this moment and<pb n="65" facs="tcp:31538:35"/>know for certaine you muſt dayly
+ſuffer. If you have already ſuffered ſome thing, you will doe wiſely to
+beleeve you shall yet ſuffer much more. When you goe about any thing
+Conſider your weakeneſſe, that you wonder not if any misfortune happen in
+the event. There is ney<g ref="char:EOLhyphen"/>ther creature you love, nor per<g ref="char:EOLhyphen"/>ſone you deale with,
+from whome you muſt not ſuffer. Expect there<g ref="char:EOLhyphen"/>fore a croſſe in every
+thing, that ſoe it may become the lighter by expectation. As there is nothing
+more frequent in this life then tri<g ref="char:EOLhyphen"/>bulations, ſoe is there nothing more
+neceſſary then patience. You muſt ſuffer from all, but chiefely from
+your ſelfe. For your owne frailty is the heavveſt croſſe, which taken a
+way, it would bee eaſy to beare the reſt. Let then your frailty admonish
+you, of your want of ability, that<pb n="66" facs="tcp:31538:36"/>you doe not preſume of
+your ſelfe, but when ſoever by devine grace you deſire to doe good, you
+propoſe it vnto mee with feare, and if that after your purpoſe (which you
+thought very firme and efficatious) you fale into your former faults, have
+patience, and purpoſe a gaine with greater feare of your ſelfe, and more
+confidence in mee. And if you fale againe what wonder if a ſtaffe of reed bee
+broken? Beginne a new, and forgetting what is paſt, lay hold on your good
+purpoſes, not as if you would force victory and with one lumpe riſe to the
+higheſt perfection, but by little and little dayly endeavoring to ad<g ref="char:EOLhyphen"/>vance
+with patience and longani<g ref="char:EOLhyphen"/>mity. This is your infirmity that you finde a will to
+good, but find not how to compaſſe it: knowing therefore your ſelfe doe
+not won<g ref="char:EOLhyphen"/>der<pb n="67" facs="tcp:31538:36"/>if you fale, but when you have falen
+confeſſe your ſinnes againſt your ſelfe, humble your ſelfe, and doe
+pennance, and Ile a gaine rayſe you, that you may goe on as though you had
+never falen.</p>
+            <p>Sonne loe here the three things which you will learne from the
+knowledge of your ſelfe. Firſt to diffide in your ſelfe, and place all
+your confidence in mee. Secondly to ſeeke nothing in this exile, nor deſire
+to bee prayſed or eſteemed great; and finaly dayly to expect, conſidering
+your owne vnhappi<g ref="char:EOLhyphen"/>neſſe, a Croſſe in, and from all things. If you
+obſerve theſe things you shall not bee ſoe eaſily diſtur<g ref="char:EOLhyphen"/>bed,
+becauſe you will cut of the rootes of diſquiet. For all diſquiet ariſes
+from theſe three heads, either to much confidence in one ſelfe; Avaine
+deſire of worldly things; Or impatience in adverſity.</p>
+         </div>
+         <div n="4" type="chapter">
+            <pb n="68" facs="tcp:31538:37"/>
+            <head>CHAPTER IV. Some points conducing to peace that ought to bee
+conſi<g ref="char:EOLhyphen"/>dered in things.</head>
+            <p>
+               <seg rend="decorInit">I</seg>Le' yet ſpeake to thee Lord, though I am but duſt and ashes,
+thou haſt taught mee two maxi<g ref="char:EOLhyphen"/>mes of peace, to wit, the know<g ref="char:EOLhyphen"/>ledge of thee,
+and the knowledge of my ſelfe, whereof, all peace and perfection depends.
+There are yet two things remaining, towards the compleating your inſtruction,
+to wit concerning the things, and perſons I deale with, that I may know how
+to conſerve a laſting peace in all events. Teach mee there<g ref="char:EOLhyphen"/>fore 
+<pb n="69" facs="tcp:31538:37"/>O Lord yet farther what ſoe euer more is neceſſary to
+find true peace in all things.</p>
+            <p>Sonne the firſt thing you muſt deepely print in your mind
+concer<g ref="char:EOLhyphen"/>ning things, is to know you muſt allways labour, allways bee doeing
+ſome thing. Peace and Idleneſſe can never agree, nor is there any thing
+ſoe oppoſit to the tranquility of mind, as litherneſſe and ſloath.
+A<g ref="char:EOLhyphen"/>mong all things created that are active there is nothing ſoe active as the
+ſoule of man, and therefore nothing can bee more oppoſit and contrary to it
+then doeing nothing at all. Examine your ſelfe if when you refraine from all
+action, and are vvholy Idle, you doe not find a tediousneſſe and loathing.
+There is nothing does more ſtrengthen, and comfort the ſoule then to ſee
+it ſelfe make progreſſe, nor any<pb n="70" facs="tcp:31538:38"/>thing oppreſſe it
+more then to bee wholy forced to ceaſe from all acti<g ref="char:EOLhyphen"/>on. <hi>Deſires kill
+the ſlothfull.</hi> How doe they kill? By gnawing and conſuming the very
+ſoule; they alſoe kill by delivering into the hands of many tormenters. For
+Idleneſſe is the ſeminary of all vices, the receptacle of all wandering
+evils, the devils table where vnto the evil ſpirits are rather invited, then
+come by chanſe, the deadly enimy of all vertues, the ſcoole of
+wicked<g ref="char:EOLhyphen"/>neſſe, the ſinke of vices, where vnto all filth gathers. There are
+two things vvholy inconſiſtent with Idleneſſe: Wiſdome, and
+Chaſtity. Loe how the ſlothfull man is killed by his deſires, who beeing
+rob'd of the chieſe ornaments of ſoule and body, (for vviſdome is the
+grace of the ſoule, and Chaſtity of the body) becomes an enimy of 
+<pb n="71" facs="tcp:31538:38"/>vertue, and is expoſed to as many miſeryes, as there
+are deceits of the world, the, flesh, &amp; the devil. There is noe vice ſoe
+full of miſchiefe as Idleneſſe, none ſoe vngratfull and fruitleſſe;
+for an Idle perſone is vſe<g ref="char:EOLhyphen"/>full to noe body, and always diſ<g ref="char:EOLhyphen"/>pleaſing to
+him ſelfe. There is no<g ref="char:EOLhyphen"/>thing ſoe like Idleneſſe, as foolish<g ref="char:EOLhyphen"/>neſſe;
+for both render people vn<g ref="char:EOLhyphen"/>fit for all things. And there is no<g ref="char:EOLhyphen"/>thing ſoe
+agreable to peace as a hardy, but moderate labour, where with life is
+ceaſoned, and time ſpent in tranquility. Adam was placed in Paradice to
+manure it; and you are caled to Religion to cultivate your ſoule by manfully
+working in it. A Religious life, is the worke of God, <hi>And curſed hee that
+does the worke of God negligently.</hi> You shall have your reward accor<g ref="char:EOLhyphen"/>ding
+to your workes, even in this<pb n="72" facs="tcp:31538:39"/>life as well as the next.
+Labour therefore in my vineard and you shall have a double reward, peace of
+mind in this life, and glory in the next.</p>
+            <p>This is the fuſt concluſion con<g ref="char:EOLhyphen"/>ſerning the things one is to
+doe that intends to live a pious and quiet life, hee muſt always la<g ref="char:EOLhyphen"/>bour. Now
+Sonne harken where in you are to labour. Allways doe that which you shall not
+repent, but wish to have done, and you will find peace. But what things are
+theſe O Lord? Sonne they are thoſe things which God requires and exacts of
+you. But who shall tell mee what God requires of mee? O happy man that has God
+for the directour of his actions and heares God ſaying this is the way, walke
+in it, that you may goe ſtreight to aeternall Salvation.<pb n="73" facs="tcp:31538:39"/>Truely hee were inexcuſable that should decline from the way, that
+has God for his guide. Tis true Sonne, there is noe greater hap<g ref="char:EOLhyphen"/>pineſſe,
+then to have God for maſter, directour, and aſſiſtent in all actions
+Neyther Kings nor Princes have ſuch a Counceler; yet you enjoy this
+praerogative of Saints, that you euer know the will of God in all your actions.
+I tould you interiourly when I ſpake in your hart, and caled you to
+Reli<g ref="char:EOLhyphen"/>gion; and now I tell it you a<g ref="char:EOLhyphen"/>gaine that I commaund what ſoe<g ref="char:EOLhyphen"/>ver your
+Superiours order. You know my will, when you know the will of your Superiur,
+that cyther now is, or shall bee for the fature. And ſeeing I have given your
+Superiour my place, it belongs to mee to provide that hee shall commaund what I
+will have; and<pb n="74" facs="tcp:31538:40"/>if I did not take care of this, my Providence
+would bee defectiue, which is indeficient and cannot faile. The day you made
+your vowes to mee, and promiſed to obey your Superiour in all things; That
+very day did I take you into my care, and ordered in the councell of my
+wiſdome, certaine actions, which I have in part al<g ref="char:EOLhyphen"/>ready let you know, and in
+part shall declare, wherin I have, and yet will have you exerciſe your vow,
+which I declare by your Su<g ref="char:EOLhyphen"/>periour. I doe not ſay your Supe<g ref="char:EOLhyphen"/>riour is
+infallible, but I ſay that what ſoever your Superiour com<g ref="char:EOLhyphen"/>maunds (that is
+not a ſinne) I com<g ref="char:EOLhyphen"/>maund the very ſame, and Ile ſoe direct you, that if
+you obey as you ought, what ſoever your Su<g ref="char:EOLhyphen"/>periour commaunds, shall conduce
+to your ſalvation. This is an in<g ref="char:EOLhyphen"/>finite<pb n="75" facs="tcp:31538:40"/>confort of
+Religious perſons that they allways heare mee ſpeak<g ref="char:EOLhyphen"/>ing in the Superiour,
+and ſoe are more ſure they doe the will of God, then if an Angel did
+reveale it to them. For they may doubt of the Angel, but ought not to doubt of
+the commaund of the ſuperiour: becauſe I have conſtituted him in my
+place, and Ile' ſoe guide him, that though hee doe not thinke of it, or will
+not, hee shall doe my will. That is, hee shall commaund that, which I
+reſolved to com<g ref="char:EOLhyphen"/>maund, when you offred your ſelfe vnto mee. Doe not
+therefore de<g ref="char:EOLhyphen"/>liberate any longer, but know that will. That is, hee shall
+commaund that, which I reſolved to com<g ref="char:EOLhyphen"/>maund, when you offred your ſelfe
+vnto mee. Doe not therefore de<g ref="char:EOLhyphen"/>liberate any longer, but know that when you
+heare your ſuperiour ſpeake you heare my will For it is truely my will to
+governe thee as the ſupertour shall commaund, whome I now fereſee; though
+you doe not yet know, who, or where they are.<pb n="76" facs="tcp:31538:41"/>there are many
+and hard commaunds that expect you, which you shall vnderſtand how hard they
+are when you shall heare them, but I now tell you of them that when they happen
+you should remember that I have tould you, that this is my will, which you
+ought to fulfill, for your great comfort and conſo<g ref="char:EOLhyphen"/>latione. Lord I now ſee
+that the chiefe and maine rule, or chuſing things for obtaining, peace, is to
+chuſe nothing but wholy depend on obedience, that I may always doe thy will,
+which is to bee cove<g ref="char:EOLhyphen"/>ted above all things. Lord give mee thy grace that I may
+always doe thy will, becauſe I know this to bee beſt and moſt profitable
+for mce; and let mee never ſeeke my owne. And now becauſe it often happens
+that there is ſome time left free to mee, I alſoe deſire to know 
+<pb n="77" facs="tcp:31538:41"/>what even then I am to doe: For ſuperiours doe not ſoe
+employ vs but there is ſome time left ouer<g ref="char:EOLhyphen"/>plus. Sonne when you find any
+ſuch time (which will often happen if you bee diligent) come to mee, and open
+your mouth, and I will fill it. I ſay betake your ſelfe to God in prayer
+and contemplation. It is the moſt proper duty of man to con<g ref="char:EOLhyphen"/>template the
+Devinity, there is nothing on earth more ſublime then prayer, but the
+frequenting Sacra<g ref="char:EOLhyphen"/>ments. It is an vnſpeakable dignity of man that hee can
+ſpeake with God, and lay open all his miſeryes and neceſſityes in his
+preſence. If any had ſoe free an acceſſe to a king as you have to God,
+to pro<g ref="char:EOLhyphen"/>poſe what you will, and when you will; hee would think him ſelfe
+moſt happy. Doe not therefore ſoe much neglect your good, but make 
+<pb n="78" facs="tcp:31538:42"/>your recourſe to God with confi<g ref="char:EOLhyphen"/>dence as often as you
+can, and take it as a great favour that I have pro<g ref="char:EOLhyphen"/>vided thee this time. If you
+doe not willingly converſe with God by meditation, you are in great daun<g ref="char:EOLhyphen"/>ger
+of leaving your vocation; for who ſoever does vnwillingly re<g ref="char:EOLhyphen"/>collect
+himſelfe, gives an evident ſigne that hee little regards his
+pro<g ref="char:EOLhyphen"/>greſſe, and hee that does not re<g ref="char:EOLhyphen"/>garde his progreſſe cannot ſtand
+long.</p>
+            <p>Now to the end you may with conſtancy and profit converſe with
+god in the recolection of your ſelfe, be ſure to have always ſome thing
+in readineſſe wherein to employ your ſelfe with zeale. Now conſi<g ref="char:EOLhyphen"/>der
+the excellency of God, now his love towards you, now your end, &amp; the
+terrible paſſage of death, ſome times looke in to your paſt 
+<pb n="79" facs="tcp:31538:42"/>actions, and others againe fore<g ref="char:EOLhyphen"/>eaſt your future; knowing
+that the more you weigh each in the ſight of God the more profitable and
+tol<g ref="char:EOLhyphen"/>lerable they will become: the chiefe point of humane wiſdome conſiſts
+in this, that a man comparing fu<g ref="char:EOLhyphen"/>ture with the paſt, doe rightly order his
+actions in the ſight of God. And hee that will not take time, to fore<g ref="char:EOLhyphen"/>caſt
+what is to bee, can never be<g ref="char:EOLhyphen"/>have himſelfe well in occations. Meditation is
+the rule of life, and prayer is the key of heaven; the one diſpoſes to
+Paradice, the other opens heaven, the one teaches what is to bee done, the
+other gives forces to put in execution both illuminate, both inflame, both
+conduce to make the burden light, and <hi>Putrify the yoke at the face of
+oile.</hi>
+            </p>
+            <p>Sonne, betake your ſelfe there<g ref="char:EOLhyphen"/>fore<pb n="80" facs="tcp:31538:43"/>to
+meditate and pray as often as your obedience will permitte, and when you can,
+write downe what I ſuggeſt vnto you, that it may the longer remaine in your
+mind, and ſoe your comfort bee more permanent. Let it bee your exerciſe, to
+gather ſcrappes from your Lords table, wherewith to feed your hunger, when
+afterwards you are in deſo<g ref="char:EOLhyphen"/>lation. All have ſome private ex<g ref="char:EOLhyphen"/>erciſe
+wherein they ſpend their time; doe you chuſe this, which is the moſt
+excellent, moſt profita<g ref="char:EOLhyphen"/>ble and ſecure, and if you doe but vſe your
+ſelfe to it, it will become the moſt ſweet and pleaſing. There is
+nothing can more conduce to peace of mind, then this internal converſation,
+which frees the ſoule from the dependance of all other things, and perſons.
+For hee that can tell how to converſe alone,<pb n="81" facs="tcp:31538:43"/>with God
+alone, carryes his com<g ref="char:EOLhyphen"/>forter with him, and needs not begg comfort from
+Creatures: ſuch doe neyther regarde place nor of<g ref="char:EOLhyphen"/>fice, becauſe they find
+free acceſſe to their God in all places, and employments, and deeme his
+con<g ref="char:EOLhyphen"/>verſatione the greateſt good. All ſeeke their comfort in ſome
+thing, but hee is happy that makes prayer and meditatione his employment, for
+hee shall have God for his com<g ref="char:EOLhyphen"/>forter.</p>
+            <p>But becauſe humane frailty is ſuch that it cannot long
+continue in any exerciſe without wearineſſe and irkeſomneſſe;
+prayer ought not to bee to much continuated, but the mind muſt bee releaſed
+from to ſerious application. Now what re<g ref="char:EOLhyphen"/>laxation, a religious perſonne is
+to take, and when, is not to bee doubted, this alſoe beeing to bee 
+<pb n="82" facs="tcp:31538:44"/>ordered by the preſcript of obedi<g ref="char:EOLhyphen"/>ence as well as all
+other things.</p>
+            <p>Relaxation of mind 15 to bee take<g ref="char:cmbAbbrStroke">̄</g> in ſuch ſort, that it bee
+not em<g ref="char:EOLhyphen"/>braced for it ſelfe, but to the end that you may afterwards betake
+your ſelfe more vigorouſly to ſe<g ref="char:EOLhyphen"/>rious matters. There are ſome
+ſtu<g ref="char:EOLhyphen"/>dyes which delight with their variety, and conduce not only to avoyd
+Idleneſſe, but if vndertaken with a good intention, alſoe helpe to
+ſerve God the better. and thus much as to the things that are to bee done.
+Now Sonne Ile' ſay ſome what of the manner of doeing them. In the firſt
+place conſi<g ref="char:EOLhyphen"/>der for whome you doe things. Whether therefore you eate or
+drinke, learne or teach, or what ſoever elſe you doe, doe all things in the
+name of the Lord. rayſe<pb n="83" facs="tcp:31538:44"/>your mind, that your eye beeing
+cleare your whole body may bee light; you will performe this, if you ruminate
+well what I have ſay'd: firſt that God ought to bee conſidered in all
+things, that as all things floe from him, ſoe all things should againe
+returne vnto him. Secondly of the know ledge of your ſelfe, to Conſider who
+it is that does them, for reflecting on the weackeneſſe of the agent, you
+will eaſyly reſigne your ſelfe to all events: thirdly to Conſider what
+you doe, and regard things as they are, fading mortal, and not able to
+ſatiate. Conſidering the nature of things thus, your mind will acquieſce
+to all accidents, as you will ſee deſcending to particulars. Tis a hard
+thing to looſe a friend, yet if you conſider a friend to bee what hee is,
+you will find your ſelfe ſeparated from one,<pb n="84" facs="tcp:31538:45"/>whoſe
+company was only lent you till a future ſeparation, nor will you take it
+heynouſly that a mortal man shall dye, nor that God take backe what hee had
+lent. Tis a harder thing to ſee familyes and Kingdomes deſtroyed; but
+conſider that Kingdomes are aſſem<g ref="char:EOLhyphen"/>blyes of men who as they beganne, ſoe
+muſt they end; nothing hu<g ref="char:EOLhyphen"/>mane can bee everlaſting. There is noe Kingdome
+that has conti<g ref="char:EOLhyphen"/>nued from the beginning of the world, nor any now in beeing that
+was not built on the ruines of a former; nor is there any like to laſt till
+the latter day. God has weighed in the Counſel of his Eternity the ſinnes
+of all ſhates, Kingdomes and Empires and reſol<g ref="char:EOLhyphen"/>ved to punish them being
+come to ſuch a meaſure. If therefore the deſtruction of ſome happen in 
+<pb n="85" facs="tcp:31538:45"/>your dayes, adore the Iuſtice of God, and you will not
+won<g ref="char:EOLhyphen"/>der the workes of men shall pe<g ref="char:EOLhyphen"/>rish. There is nothing more grieu<g ref="char:EOLhyphen"/>ous, then
+to ſee the Church op<g ref="char:EOLhyphen"/>preſsed, and that fire extinguished which I kindled.
+Yet looke on this very oppreſſion as the ſafty of the elect, and any
+perſecution what ſoe<g ref="char:EOLhyphen"/>ver will ſeeme tollerable. Conſider alſoe with
+your ſelfe that Gods elect diſperſed in all ages, and clymats, doe
+ſuffer more or leſſe, according as God decreed before all ages, as it is
+written. <hi>When the higheſt devidel, the nations, When hee ſepa<g ref="char:EOLhyphen"/>rated the
+ſonnes of Adam, hee appoin<g ref="char:EOLhyphen"/>ted the limus of people according to the number of
+the children</hi> of <hi>Iſrael</hi> (that is the number of the elect)
+<hi>for not all that are</hi> of <hi>Iſrael they bee Iſraelits: nor they
+that are the children of the flesh,</hi> but thoſe that walke 
+<pb n="86" facs="tcp:31538:46"/>according to faith, and for theſe God made all things,
+Soe that though the Church ſeeme to bee extinguished in this, or that place:
+yet it is not extinguished; but ſeeing there will bee, noe more elect in
+ſuch, or ſuch a place, the light of faith is withdrawen from the reprobate,
+by their demerit: Yett God ever affords them ſufficient grace to ſalvation:
+and this is not to bee wondred at. Conſider the<g ref="char:EOLhyphen"/>refore thus each thing to bee
+what it is, and you will not wonder at any thing that hap<g ref="char:EOLhyphen"/>pens. And allthough
+this conſide<g ref="char:EOLhyphen"/>ration bee very profitable in the occations themſelves yet it
+is much better to diſpoſe the mind before hand: for in the occations, or
+after wards there is need of great vio<g ref="char:EOLhyphen"/>lence to ſuppreſſe a rayſed
+paſſion. Hee that foreſees all things will bee prepared for all events:
+No<g ref="char:EOLhyphen"/>thing<pb n="87" facs="tcp:31538:46"/>can come ſuddaine or vn<g ref="char:EOLhyphen"/>expected to him. And who
+ſoe<g ref="char:EOLhyphen"/>ver conſiders things as they are, will love them as hee ought. The only
+way to keepe a quiet and ſettled mind in all events proſpe<g ref="char:EOLhyphen"/>rous or
+adverſe, is to give each a juſt proportion of love. Things that are
+immutable, are to bee loved with an vnalterable affec<g ref="char:EOLhyphen"/>tion, and thoſe that
+are changable with a changable one. The im<g ref="char:EOLhyphen"/>mutable goods are God and his will,
+and then the ſalva<g ref="char:EOLhyphen"/>tion of men, which is contained in the will of God.
+Wherefore theſe are the only things which are to bee loved vnalterably,
+all<g ref="char:EOLhyphen"/>wayes, and by all. All other goods, either of body or ſoule, of parents,
+of friends, ones Country, or of the whole earth, are mutable goods and limited,
+for there is none of<pb n="88" facs="tcp:31538:47"/>theſe things that faile not, none
+that doe not deceive their lovers. Yet they are all goods in their way, if you
+doe but know how to make vſe of them. You muſt only lend, and not give them
+your affection, you muſt not place your whole affection on them; but afford
+each their proportion, more or leſſe, according as they are better and more
+permanent. Yet you muſt ſoe impart to each, that you doe not derogate from
+the chiefe affection to the vnchang<g ref="char:EOLhyphen"/>able good, which will bee, if you love all
+other things in order to that immutable good, there beeing nothing truely good
+but in order to that. If therefore you deſire not to bee diſturbed with any
+thing which you eyther doe or ſuffer, bridle your affections ſoe that they
+doe not to much adhere to any<pb n="89" facs="tcp:31538:47"/>thing but give each a juſt
+propor<g ref="char:EOLhyphen"/>tion, according to theire merite and deſerts.</p>
+         </div>
+         <div n="5" type="chapter">
+            <head>CHAPTER V. Certaine things to bee Obſer<g ref="char:EOLhyphen"/>ved concerning the
+Per<g ref="char:EOLhyphen"/>ſons wee deale with, for preſerving the Peace of mind.</head>
+            <p>
+               <seg rend="decorInit">L</seg>Oe here my Sonne the hardeſt leſſon of all; how to have
+peace with men. O what a many things are to bee obſerved not to diſpleaſe
+men? you are oblidged to love all, but not to bee beloved by all, nor will you
+bee able to effect it, yet you<pb n="90" facs="tcp:31538:48"/>muſt <hi>Provide good
+things not only before God, but alſoe before all men, if it may bee,</hi> to
+which end you muſt obſerve many things.</p>
+            <p>In the firſt place if you deſire to live in true peace among
+men, let your chiefe care bee not to commu<g ref="char:EOLhyphen"/>nicate your ſelfe to freely to
+men; but keepe at a juſt distance with all people. Familiarity according to
+the ould Proverbe breeds contempt. For whilſt familiarity does wholy expoſe
+men, and diſcover the moſt hidden ſecrets, it manifeſts many vices with
+few vertues: and vices and defects doe hinder love, towards the perſon they
+are in: and if they doe not be<g ref="char:EOLhyphen"/>gett a hatred, they at leaſt breed contempt.
+More over a frequent converſation with the ſame perſon<g ref="char:EOLhyphen"/>nes cauſes a
+ſatiety and that a loath<g ref="char:EOLhyphen"/>ing. If therefore you deſire to have a friendship
+long laſting with any<pb n="91" facs="tcp:31538:48"/>one, doe not commnuicate to
+fre<g ref="char:EOLhyphen"/>quently with them, nor ever wholy, for the leſſe freely you impart your
+ſelfe to others the more pretious shall your friendship bee. How com's it to
+paſſe that ſoe many beginne friend<g ref="char:EOLhyphen"/>ships with ſoe much fervour and
+af<g ref="char:EOLhyphen"/>fection, which are ſoe ſoone loſt? There are many reaſons, where of
+this is not the leaſt. Becauſe when they have wholy delivered themſel<g ref="char:EOLhyphen"/>ves
+to each other, and expoſed their moſt hidden ſecrets love not finding how
+to encreaſe, like vnto the flame having conſumed the flax perishes with the
+fewel; ſoe the love of theſe not beeing able to encreaſe conſumes it
+ſelfe. This is ſoe natural to man. that neither the vnderſtanding nor
+will, can reſt, but ſtill ſeeke to goe on tell they come to the
+poſseſſi<g ref="char:EOLhyphen"/>on of an infinity: and if they are not permitted to paſse on
+in any thing,<pb n="92" facs="tcp:31538:49"/>they preſently loath it and ſeeke an
+other. Thus they that heape vp riches ſtil deſire to encreaſe the heape;
+Thus they that ſwimme in pleaſures ſtil thirſt for others. Thus they
+that are the moſt Learned ſtil deſire a greater knowledge; nor can any of
+theſe reſt, as long as riches, plea<g ref="char:EOLhyphen"/>ſures, or knowledge have certaine
+bounds, which they ever will find. Yet as long as they labour in the pur<g ref="char:EOLhyphen"/>ſute
+of theſe goods, though they doe not reſt (for noe man reſts in that which
+hee labours to obtaine) not<g ref="char:EOLhyphen"/>withſtanding they delight in the progreſſe;
+and man's mind is more pleaſed with a progreſſe in ſmale things, then
+to ſtoppe at great. This is the reaſon why you never ought wholy to impart
+your ſelfe vnto your friends; But make a mo<g ref="char:EOLhyphen"/>derate diſtribution, that love
+may ſtil find place to encreaſe. And ſoe much as to this.</p>
+            <p>
+               <pb n="93" facs="tcp:31538:49"/>There are yet many other rea<g ref="char:EOLhyphen"/>ſons which if
+well Conſidered will more powerfully withdraw you from to much familiarity
+with men. For as friendship is the ſtrongeſt and ſweeteſt band, ſoe
+does it alſoe moſt eaſily captivate, and hinder them from enjoying
+themſelves, and God, with a true freedome. All love of Creatures that has not
+its of spring from true charity is oppoſite to the love of God; and there is
+nothing does ſoe dead devine love, as the love of men. The love of Gould
+makes men avaritious, that of honour ambitious, but the love of men heapes all
+vices together. Many would overcome theire owne vices, vnleſſe they were
+overcome by thoſe of others, and drawen into miſchiefe by keeping their
+friends Company, moſt ſinnes are com<g ref="char:EOLhyphen"/>mitted, becauſe men live accor<g ref="char:EOLhyphen"/>ding
+<pb n="94" facs="tcp:31538:50"/>to example and none dare recale others from ſinning, but
+are rather ashamed not to follow thoſe that lead to ſinne. O hard ſlavery
+of friendship which obliges to live according to the wayes of others and
+thoſe generaly euil? there is yet a nother evil in familiarity, that moſt
+betray them ſelves to theire friends, you laugh and diſcloſe your ſelfe
+to your friend, and hee noe Sooner has receaved your ſecret, but recom<g ref="char:EOLhyphen"/>mends
+it to another friend, oblidg<g ref="char:EOLhyphen"/>ing his fidelity to bee moſt faithfull in the
+ſecret; and thus your ſecret wanders, till at laſt it becomes Publicke.
+This is a great miſchiefe of Familiarity, but ineuitable; for to conceale any
+ſecret, is to re<g ref="char:EOLhyphen"/>nounce friendship, and to discloſe it even to your moſt
+familiar is to divulge it. And you doe moſt un<g ref="char:EOLhyphen"/>juſtly exact another should
+keepe <pb n="95" facs="tcp:31538:50"/>the ſecret you could not conſeale, for how can
+you with reaſon comitte that to an others truſt which you were not
+faithfull to your ſelfe in.</p>
+            <p>Though this were the only evil of friendship that it diſcouers
+what ought to bee kept ſecret, this a<g ref="char:EOLhyphen"/>lone might juſtly withdraw you from
+the familiarity of men, but there are a thouſand other wayes whereby men erre
+and offend by familiarity. When you deale with ſtrangers you ſeldome ſlip
+in your words, and hardly ever deale with your familiars but you ſpeake many
+things which you repent to have vttered: Soe that errours are co<g ref="char:EOLhyphen"/>mitted on all
+ſides in frindship; now you find fault with others actions, now you
+diſcover your owne faults, now you make new frindshipps, now you betray
+Secrets, now yours are betra<g ref="char:EOLhyphen"/>yed; now you are infected with<pb n="96" facs="tcp:31538:51"/>your friends diseaſe, now you im<g ref="char:EOLhyphen"/>part your owne, you always offend
+God, and always returne worſe from your friends. Lord if this bee the
+condition of a friend with his friend, it is better to have noe friend. And if
+one man bee ſoe prejudiciall to another wee muſt fly the company of all
+men, and live retired, placeing our hopes in ſilence and ſolitude.</p>
+            <p>Sonne this is your weakeneſſe that as ſoone as you find
+difficulty in any thing, you preſently fale on the contrary. You muſt not
+therefore wholy leave all humane converſa<g ref="char:EOLhyphen"/>tion, becauſe there are errours
+committed in friendship; for though it bee hard to live among men vprightly:
+Yet it is much better to live ſoe, then to live in ſolitude. Errours are
+oftener committed in a Community, but they are more<pb n="97" facs="tcp:31538:51"/>Dangerous in ſolitude; and if ver<g ref="char:EOLhyphen"/>tue bee more peaceable in
+ſolitude, yet it is greater and ſtronger in a community, you muſt not
+there<g ref="char:EOLhyphen"/>fore fly company, but the vices of company. As for what appertaines to
+particular frindship, it is Danger<g ref="char:EOLhyphen"/>ous. If you can live without a frind you
+will bee much more quiet, and you shall almoſt auoyd the enmitys of all, if
+you avoyd Frindships. Yet it is ſometimes neceſſary for ſome to have a
+frind, to whome they may eaſe themſelves, and by whome they may bee
+directed in their doubts; which though it is profi<g ref="char:EOLhyphen"/>table to all, yet it is more
+neceſ<g ref="char:EOLhyphen"/>ſary for the younger. If you be, wiſe you will take your Superiour,
+and him that rules your conſcience inſtead of this frind: and vſe your
+ſelfe ſoe much to their company, that you bee not aſshamed to diſ<g ref="char:EOLhyphen"/>cover
+<pb n="98" facs="tcp:31538:52"/>your infirmityes vnto them, and aske their counſaile in
+all things, knowing for certaine, that I will rule you by them, and direct them
+ſoe, that as long as you obey their voice ſincerly, whatſoever they
+adviſe, shall cooperate to your good. As to what concernes others live ſoe
+as neither to have friend, nor enimy; which you shall effect, if you be<g ref="char:EOLhyphen"/>have
+your ſelfe like a Pilgrimme and a ſtranger, as you ought to doe, if you
+deſire to live quietly. Have a care then not to bee to familiar with any, but
+more per<g ref="char:EOLhyphen"/>ticularly with the imperfect, and above all with women, whoſe
+con<g ref="char:EOLhyphen"/>verſation though never ſoe holy is ſubject to danger. If you will
+needs have a friend, let him bee ſuch an one as you could wish your ſelfe
+moſt perfect, that ſoe his life may bee the model of your actions. 
+<pb n="99" facs="tcp:31538:52"/>But doe not preſently judge any one ſuch, till the long
+experience of many yeares have made his vertue knowen in ſeveral occaſions.
+If you can meete with ſuch an one, inſi<g ref="char:EOLhyphen"/>nuate your ſelfe into his company
+if you can, and deeme your ſelfe to have found a treaſure. In the meane
+while, live content with mee alone. Fly all familiarityes, and you shall the
+more freely en<g ref="char:EOLhyphen"/>joy God, and your ſelfe: and this is the firſt advice, that
+you doe not eaſily contract friendship with any, til you meete with ſome
+body very perfect, and in the meane time eſteeme all others, but mee, and
+your ſelfe, as paſſangers and ſtran<g ref="char:EOLhyphen"/>gers; which if you performe, you
+will avoyd the greateſt part of thoſe things, which among men vſe to
+diſturbe the peace of mind; and if you doe not; you shall find 
+<pb n="100" facs="tcp:31538:53"/>as many diſturbers of your peace as you have
+friends.</p>
+            <p>Now Sonne doe not only heare, how you are to take heed of men, but
+alſoe how you are to gaine the love of all, and live quietly with them.
+<hi>Thou shalt love thy neighbour as thy ſelfe.</hi> There is nothing where
+by you shall gaine the love of all more, then by loving all. Love is the
+goulden hooke wherewith men are taken. To much familiarity and private
+frindship, beſides the evils wee have already ſpoke of, has an<g ref="char:EOLhyphen"/>next vnto
+it, that it generally diſ<g ref="char:EOLhyphen"/>pleaſes all; where as common charity which
+imbraces all, is gratefull to all, and diſpleaſing to none. Doe therefore
+live ſoe, that you love all, and that all may ſee they are loved by you,
+and you shall alſoe bee loved by all. Now to the end this love bee ſolid,
+it muſt bee<pb n="101" facs="tcp:31538:53"/>grounded vpon vnchangable, and aeternal
+motives. Love becauſe I love, love becauſe it is fitting: for love if well
+placed, is the moſt no<g ref="char:EOLhyphen"/>ble production of the minde. Love for the interjour
+worth of each, for man is the worke of God, capable of an infinity, and cannot
+bee to much loved, if but rightly. Love all for theſe motives, as if they
+were thy brethren.</p>
+            <p>Endeavour to behave your ſelfe ſoe, that all may perceive, you
+are not lead by private obligati<g ref="char:EOLhyphen"/>ons, but that you are ready to ac<g ref="char:EOLhyphen"/>comodate
+your ſelfe to each in par<g ref="char:EOLhyphen"/>ticular, as farre, as the aeternal mo<g ref="char:EOLhyphen"/>tives will
+permitte. Of all the acts which love produces, the giving honour, is the
+chiefe, and moſt efficatious to winne peoples hartes. Honour therefore, if
+you deſire to bee honoured; all love honour, &amp; him<pb n="102" facs="tcp:31538:54"/>that honours them. Yet let not your honour be ſervil but, generous,
+let it not flatter, but reſpect, let it not feare, but love, and let it bee
+always ſuch, that it pleaſe God, whether it pleaſe man or noe; and ſoe
+you shal bee ſure not to looſe your reward. Nor indeed, need it bee feared
+that you shall not pleaſe men, as long as you honor them. For there are but
+few that are of ſuch abject and ſervil ſpirits, that are not deligh<g ref="char:EOLhyphen"/>ted
+with honour, nor ought you to leave the common high way for a few. Doe what you
+ought, and if others miſconſter your proceedings, doe not therefore
+deſiſt but follow the tract, true reaſon dictat's.</p>
+            <p>This honour and love which you are to afford your neighbour is
+per<g ref="char:EOLhyphen"/>ceived in two things; to wit, words, and deeds. Firſt you muſt not doe
+any thing that is injurious to ano<g ref="char:EOLhyphen"/>ther vpon any account whatſoever. 
+<pb n="103" facs="tcp:31538:54"/>Nevther ought you only doe this, for even heathens and
+publicans doe the ſame. But for my ſake, you shall endeavour to yeald of
+your owne right, rather then to per<g ref="char:EOLhyphen"/>mitte, that others should ſuffer any
+inconvenience, that you can re<g ref="char:EOLhyphen"/>dreſſe, nay you shall even ſeeke
+oc<g ref="char:EOLhyphen"/>cations to exerciſe charity towards your neighbour. This the Evange<g ref="char:EOLhyphen"/>lical
+law requires of you, which I was pleaſed to ground on fraternal Charity: and
+this does your vocation exact which you cannot comply with, but by exerciſing
+charity in all occations. I have caled you to bee wholy employed in helping
+your neighbours and wholy bent on their good. And if you are ready to vnder goe
+any labours for your neigh<g ref="char:EOLhyphen"/>bours in generall, and even death it ſelfe, what
+ought you to doe for your brethren with whome<pb n="104" facs="tcp:31538:55"/>you live, and
+of the ſame profeſſion with you. If you did know what a glorious thing it
+is, to bee caled &amp; bee a companion of IESUS, you would beare each of them
+great Re<g ref="char:EOLhyphen"/>verence, and love, and ſtudy how to pleaſe, and ſerve mee, in my
+com<g ref="char:EOLhyphen"/>panion, though with never ſoe great inconvenience; for whatſoever you
+doe to the leaſt of theſe my companions, is done to mee, you muſt
+therefore have great care that you doe not contriſtare mee in my companion,
+by doeing any thing whereby your brother, and mine may juſtly bee offended.
+Neyther muſt you thinke it ſuffi<g ref="char:EOLhyphen"/>cient not to offend, but you muſt
+endeavour to oblidge each, with moſt ſingular charity. If you can not
+expreſſe this charity in effects and deeds, at leaſt let it appeare in a
+ſincere expreſſion of words.<pb n="105" facs="tcp:31538:55"/>Words are the
+inſtruments, where with the ſoules of men converſe, with one another, and
+make a mutuall excha<g ref="char:cmbAbbrStroke">̄</g>ge of their thoughts: a word is ſoone ſpoken, and
+there is nothing lighter; but once vttred it is irrevocable, and workes great
+things; for whilſt the voice perishes in the ayre, it leaves behind an
+impreſſion in the harts of the hearers, which ſome times noe art, or
+labour can weare away. What wars has an inconſideratly vttred word beene
+cauſe of? noe man can tame a toungue, neyther are you or any other free from
+this inquiet evil; yet the better you commaund your toungue the more quietly
+you shall live, both to your ſelfe and others.</p>
+            <p>When you ſpeake you muſt not bee moroſe, or to ſadde. Yet 
+<pb n="106" facs="tcp:31538:56"/>you muſt take greater heed, of faling into ſuch an
+effuſion of toungue, that you regard not what you ſay, ſoe you gaine the
+laughter and plauſe, of people: For it is better bee ſad then ridi<g ref="char:EOLhyphen"/>culous,
+there being nothing more vnworthy, and vnbeſeeming then to ſee a Religious
+man like a jeſter doe nothing elſe but ſeeke to pro<g ref="char:EOLhyphen"/>voke people to
+laughter by the abſurdity of his ſayings. Such perſons neyther have any
+ſence of devotion, or Solidity in them, nor can they profit eyther
+themſelves or others. Doe you therefore not only avoyd doeing any ſuch
+things your ſelfe, but even the conver<g ref="char:EOLhyphen"/>ſation of ſuch, leaſt you
+ſeeme by your company, and patience to authoriſe their folly, Perſuade
+your ſelfe moſt certainely that there is noe peace to bee founde 
+<pb n="107" facs="tcp:31538:56"/>with ſuch, but by flying them. There are but few ſuch,
+nor are you to thinke any ſuch, vn<g ref="char:EOLhyphen"/>leſſe hee shew himſelfe to bee
+ſoe, but you muſt treat all hono<g ref="char:EOLhyphen"/>rably not with a ſordid compli<g ref="char:EOLhyphen"/>ment but
+a ſincere charity.</p>
+            <p>You muſt not diſprayſe any, nor ſpeake of thoſe things
+which you know they are vnwilling to heare, vnleſſe neceſſity oblidge,
+or the duty of your office require it. You shall not contend with any, but
+rather chuſe to holde your toungue to preſerve peace, then overcome by
+contending. Thoſe that diſpute much about every thing, and alwavs defend
+their opinion gene<g ref="char:EOLhyphen"/>rally want judgement, and if they were but ſoe wiſe as
+to judge rightly they would not doe it. They are alſoe often blinded with the
+affection of a perverſe will<pb n="108" facs="tcp:31538:57"/>and perſuade people that
+things are as they would have them, not as they know them to bee. Whether they
+erre in will, or vnderſta<g ref="char:cmbAbbrStroke">̄</g>ding, doe not oppoſe them, but when you have
+delivered your opinion, leave them in their errour, whether it bee that they
+will not, or cannot ſee the truth.</p>
+            <p>Avoyd complaints which preju<g ref="char:EOLhyphen"/>dice charity &amp; gauld the mind of
+the plaintife. If you find nothing prayſe worthy, doe not diſprayſe, but
+bee ſilent: if you ſee any thing prayſe worthly prayſe with moderation,
+for the exceſſe of prayſe does great pre<g ref="char:EOLhyphen"/>judice; as well becauſe it
+shewes the imperfect judgeme<g ref="char:cmbAbbrStroke">̄</g>t of him that pray<g ref="char:EOLhyphen"/>ſes, as that it deceives the
+prayſed: and finaly becauſe that hee, that gives great prayſes to meaner
+things has nothing to adde to greater: and beſides a moderate prayſe gets
+cre<g ref="char:EOLhyphen"/>dit,<pb n="109" facs="tcp:31538:57"/>which the immoderat looſeth. Prayſe therefore
+thoſe that are prayſe worthy with moderation, and ac<g ref="char:EOLhyphen"/>cording to their
+deſert, but never prayſe your ſelfe: for who ſoever prayſes him
+ſelfe rayſes envy need<g ref="char:EOLhyphen"/>lesly: for all men endeavour to ſuppreſſe the
+arrogant, nor is there any thing more apr to begette con<g ref="char:EOLhyphen"/>tempt then an itching
+deſire of prayſe, expreſſed by the commenda<g ref="char:EOLhyphen"/>tion of ones ſelfe. It is
+better, and much more wiſdome to ſay nothing of ones ſelfe, but let deeds
+ſpeake. If you have abilityes, there will not want occationes wherein to shew
+them: expect therefore a while, and vertue or wiſdome will appeare more
+pleaſing, the leſse exſpected. Boaſting does even leſſen good
+actions, and makes great things ſeeme ſmale; becauſe they were greater in
+expec<g ref="char:EOLhyphen"/>tation. If you will prejudice any future action, you cannot effect it 
+<pb n="110" facs="tcp:31538:58"/>in a more compendious way, then if you prevent and fill
+peoples minds with great promiſes which cannot bee performed. For men beeing
+frus<g ref="char:EOLhyphen"/>trated of their expectation become paſſionat judges, and deſire to
+find fault and condemne every thing. Prayſe not therefore your ſelfe, nor
+preferre your ſelfe before any: but bee as kind and indulgent to others as
+you can. Prayſe what you can according to its deſert, make the beſt of
+what is doubtfull, that love may appeare every where which pleaſes all; and
+let not Inſolency, pride, Anger, neglect, or a meane oppinion of your
+neighbour, appeare any where, or any thing that may breed averſion: and doe
+not that to another you would not have done to your ſelfe, and ſoe you will
+fulfill my commaundement. <hi>Thou shall love thy neighbour as thy
+ſelfe.</hi>
+               <pb n="111" facs="tcp:31538:58"/>But ſeeing it is very hard to be<g ref="char:EOLhyphen"/>have ones
+ſelfe as on ought in all events, eſpecially when wee are to deale with
+others, obſerve theſe two following rules which will very much conduce to
+your peace of mind.</p>
+            <p>The firſt is not to intrude your ſelfe into the imployments of
+others. Let each doe their duty, tis their owne deeds muſt make them ſtand
+or fale. It is good to bee willing to help others, but it is very troubleſome
+to meddle in others dutyes. you are not a Cenſor to pry into others lives and
+acti<g ref="char:EOLhyphen"/>ons, nor shall you bee iudged for the actions of others, but your owne. If
+there bee any thing a<g ref="char:EOLhyphen"/>miſſe in your neighbour, let him mend it. What is
+that to you? doe not you paſſe your bounds becauſe another has
+tranſgreſsed his, you<pb n="112" facs="tcp:31538:59"/>make your ſelfe miſerable to
+no purpoſe while you afflict your ſelfe with the cares of others. Suppoſe
+therefore every body to doe their duty, &amp; doe you in like manner per<g ref="char:EOLhyphen"/>forme
+yours If your neighbours, fault is manifeſt; firſt ſee if there bee noe
+body elſe vnto whome it belongs to reprehend, and correct, which if there
+bee, you are not to meddle with it. If there bee noe ſuch perſonne, then
+conſider a gaine, whether, what you may ſay is like to doe good; and doe
+not eaſily perſuade your ſelfe it will: for all reprehenſions are
+vngratfull, even from a ſuperiour, and from an aequal, or inferiour
+intollerable to all, but thoſe that have a perfect abnegation of
+themſelves. But if you certainely ſee your words will doe good, you ought
+not to refuſe your neighbour this charity.</p>
+            <p>
+               <pb n="113" facs="tcp:31538:59"/>The ſecond rule is. That in all you doe, or
+ſay of your neigh<g ref="char:EOLhyphen"/>bour, you make the moſt favorable conſtruction. For
+ſince you muſt, al<g ref="char:EOLhyphen"/>moſt of neceſſity incline to one ſide or other
+of the ballance, it is much better you should incline rather to indulgence,
+then to much ſeverity. For to much indulgence is eaſily monded, but to much
+ſeverity once vſed is hardly ever forgott. In<g ref="char:EOLhyphen"/>dulgence or condecendency is
+a hu<g ref="char:EOLhyphen"/>mane errour, and deſerves love, but ſeverity is cruelty, and rayſes
+hatred and envy. Yet this is not ſoe to bee vnderſtood, as though you were
+any-wiſe, eyther out of love or in<g ref="char:EOLhyphen"/>dulgence to deviate from what is right:
+for ſuch indulgence is very prejudicial, and rather deſerves the name of
+co<g ref="char:cmbAbbrStroke">̄</g>tempt of good diſcipline, then fraternal charity. But where there is any
+doubt, you had better<pb n="114" facs="tcp:31538:60"/>erre twice out of to much cha<g ref="char:EOLhyphen"/>rity,
+then once out of two much rigour.</p>
+            <p>Sonne theſe are the things, which you may doe for love of your
+neigh<g ref="char:EOLhyphen"/>bour, to fulfill my will in all things. Yet when you have done them; you
+muſt not preſently thinke you shall bee in peace with your neighbour; for
+though you have done your part, yet it is not in your power to hinder, that
+none shall oppoſe you, and ſoe diſ<g ref="char:EOLhyphen"/>turbe your peace. You muſt
+there<g ref="char:EOLhyphen"/>fore laſtly learne how to beare in<g ref="char:EOLhyphen"/>juryes when they happen, ſoe that
+they doe not diſturbe your peace of mind. If that you doe but rightly
+conceive and retaine what has beene ſayd there is noe more to bee added. But
+becauſe there is nothing harder then to beare inju<g ref="char:EOLhyphen"/>ryes and contumelyes as
+one ought,<pb n="115" facs="tcp:31538:60"/>I will ſay ſome what that may much conduce
+there vnto.</p>
+            <p>When ſoever then (which doubt<g ref="char:EOLhyphen"/>leſſe ſome times will fale
+out) it shall happen that any one provoke you by injuryes, or calumnyes, you
+muſt endeavour moſt carefully to paſſe over your injury as if you were
+not wronged. They that provoke you, often deſire noe more, then to move you
+to anger; doe not therefore pleaſure them ſoe farre, as to let them ſee
+you are offended. T'is very convenient to diſſemble your beeing offended,
+and it can doe noe good to publish it. It is wiſ<g ref="char:EOLhyphen"/>dome when you are offended
+to bee ſilent, &amp; very dangerous to ſpeake. What you doe not now
+ſpeake of, you may afterwards when you pleaſe take notice, but you can<g ref="char:EOLhyphen"/>not
+recale what once is vttred. The greater ſenſe you have of an injury, 
+<pb n="116" facs="tcp:31538:61"/>the more you ought to diſſemble it, and take heede,
+your vnbeſee<g ref="char:EOLhyphen"/>ming paſſion doe not appeare in publick. Know that if it bee
+hard to ſuppreſſe and diſſemble anger; it is yet much harder not to
+ex<g ref="char:EOLhyphen"/>ceede the bounds of modeſty, and reaſon, if you once beginne to ſpeake
+in anger. When your mind is well ſettled and free from paſſion you can
+hardly ſpeake, that you doe not repent, ſomthing that you have vttered; how
+then shall you expect to containe your ſelfe in reaſon when you are
+diſturbed with anger. If what you were a bout to ſpeake bee neceſſary,
+you may ſpeake it af<g ref="char:EOLhyphen"/>terwards: and in the meane while you have the advantage
+of overco<g ref="char:EOLhyphen"/>ming your paſſion. When therefore it shall happen (which you
+muſt allways expect) that any on shall injure you in word or deede, or 
+<pb n="117" facs="tcp:31538:61"/>prove vnfaithfull to you, diſſemble it for a while,
+and paſſe it over, as though you did not reſent it. And then as ſoone
+as you can come to mee in the Church, and there com<g ref="char:EOLhyphen"/>me morate your ſufferings
+in my pre<g ref="char:EOLhyphen"/>ſence, and adviſe with mee whe<g ref="char:EOLhyphen"/>ther they ought to be borne; or
+noe: If they bee ſuch as you con<g ref="char:EOLhyphen"/>fide you may bee able to beare, doe not
+looſe the occation of imitating my paſſion, but offer them mee, that they
+may bee layd vp in my wounds in memory of you; for you ought to deſire ſuch
+croſſes, there beeing nothing in the world better then adverſity, well
+borne. And if you complaine of ſmale and eaſy things what will you doe when
+greater evils shall befale you? If the injury or difficulty bee ſoe great
+that you feare your forces are not able to beare it, or that it ought not to
+bee<pb n="118" facs="tcp:31538:62"/>ſuffered Conſider in my preſence what you can doe
+to avoyd it, and that doe; neyther ought you to ex<g ref="char:EOLhyphen"/>poſe your ſelfe to
+tentatione, but helpe your ſelfe by all lawfull mea<g ref="char:EOLhyphen"/>nes, that may ſecure
+you. For though it bee allways good, and to bee wish<g ref="char:EOLhyphen"/>ed to ſuffer, yet it is
+contrary to all reaſon, and the will of God alſoe, to expoſe your ſelfe
+to grievous tenta<g ref="char:EOLhyphen"/>tions, which probably you shall not maſter; or are ſuch
+things which juſtly ought not to bee borne with. For it is incomparably
+better to fly tentations, then to be overcome by them, wherfore it is not only
+lawfull but neceſsary to apply fitt remedyes in theſe caſes. Only take
+heed you make not paſsion but reaſon your counceller, &amp; doe not what
+flesh &amp; bloud shall ſuggeſt, but what my father that is in heaven shall
+reveale vnto you, for as long as you follow<pb n="119" facs="tcp:31538:62"/>paſſion,
+and obey the deſires of the flesh, you doe diſorderly, &amp; shall bee
+diſquieted: but as long as you doe not ſeeke your ſelfe or any other
+Creature, but deſire accor<g ref="char:EOLhyphen"/>ding to right reaſon, to doe the will of my
+heavenly Father, ſoe long shall you find in all things eyther proſperous,
+or advers, the wished peace. Your peace shall bee the greater, the better you
+are, you will the better, the greater progreſſe you make, you will make the
+greater progreſſe, the more you are vnited to mee, you will bee the more
+vnited to mee, the more you are ſequeſtred from all Creatures, and you
+shall bee the more ſequeſtred from Crea<g ref="char:EOLhyphen"/>tures the leſſe you ſeeke
+your ſelfe. Endeavour therefore to leave ſeek<g ref="char:EOLhyphen"/>ing your ſelfe, and vſe
+violence to your ſelfe, for the King<g ref="char:EOLhyphen"/>dome<pb n="120" facs="tcp:31538:63"/>of heaven
+ſuffers force and the violent lay holde of it. The more oppoſition nature
+makes, the greater violence you muſt vſe to ouercome your ſelfe in
+occations. And though at the beginnings you find it hard and difficult to
+over<g ref="char:EOLhyphen"/>come your ſelfe, feare not, but make your recourſe to mee, and I
+pro<g ref="char:EOLhyphen"/>miſe you shall finde <hi>my joke is ſweet, and burden light.</hi> The
+firſt degree then to perfection and peace is to leave your ſelfe: and the
+higheſt, which you muſt always ayme at, is in all things to adhere to mee:
+which when you shall attaine to, imagine you have found true peace.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div xml:lang="lat" type="imprimatur">
+            <p>Imprimatur, Actum Gandavi</p>
+            <closer>
+               <dateline>
+                  <date>19. Decembris 1675.</date>
+               </dateline> 
+               <signed>P. de MEY C. L. C. G.</signed>
+            </closer>
+            <pb facs="tcp:31538:63"/>
+         </div>
+      </back>
+   </text>
+</TEI>
